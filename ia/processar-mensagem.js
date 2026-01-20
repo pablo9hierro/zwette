@@ -4,12 +4,7 @@ import { carregarPromptEntenderMensagem } from '../prompts/prompt-entender-mensa
 import { executarRequisicaoMagazord } from '../tools/magazord-api.js';
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ 
-    model: 'gemini-1.5-flash',
-    generationConfig: {
-        responseMimeType: 'application/json'
-    }
-});
+const model = genAI.getGenerativeModel({ model: 'gemini-pro' });
 
 /**
  * Processa a mensagem recebida e retorna a resposta completa
@@ -27,12 +22,15 @@ async function processarMensagemRecebida(mensagemUsuario, numeroUsuario) {
         // Etapa 1: IA interpreta a intenção e monta a estrutura da requisição
         const promptSistema = carregarPromptEntenderMensagem();
         
-        console.log('🔑 Modelo:', 'gemini-1.5-flash');
+        console.log('🔑 Modelo:', 'gemini-pro');
         console.log('📤 Enviando para Gemini...');
         
-        const prompt = `${promptSistema}\n\nMensagem do usuário: ${mensagemUsuario}`;
-        const result = await model.generateContent(prompt);
-        const responseText = result.response.text();
+        const promptCompleto = `${promptSistema}\n\nMensagem do usuário: ${mensagemUsuario}\n\nRetorne APENAS um JSON válido, sem markdown.`;
+        const result = await model.generateContent(promptCompleto);
+        let responseText = result.response.text();
+        
+        // Remove markdown se vier com ```json
+        responseText = responseText.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
 
         const intencaoIA = JSON.parse(responseText);
         
