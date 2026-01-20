@@ -4,7 +4,7 @@ import { carregarPromptEntenderMensagem } from '../prompts/prompt-entender-mensa
 import { executarRequisicaoMagazord } from '../tools/magazord-api.js';
 
 const openai = new OpenAI({
-    apiKey: process.env.CHATGPT_API_KEY
+    apiKey: process.env.OPENAI_API_KEY || process.env.CHATGPT_API_KEY
 });
 
 /**
