@@ -1,0 +1,25 @@
+{
+  "name": "whatsapp-baileys-server",
+  "version": "1.0.0",
+  "description": "Servidor WhatsApp MVP usando Baileys",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "@whiskeysockets/baileys": "^6.7.7",
+    "axios": "^1.13.2",
+    "dotenv": "^16.6.1",
+    "openai": "^4.104.0",
+    "pino": "^8.19.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
