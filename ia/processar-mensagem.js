@@ -97,10 +97,10 @@ async function processarMensagemRecebida(mensagemUsuario, numeroUsuario) {
         }
 
         // ===================================================================
-        // ETAPA 4: IA FORMATA RESPOSTA HUMANIZADA COM LINKS
+        // ETAPA 4: IA FORMATA RESPOSTA HUMANIZADA
         // ===================================================================
         console.log('\n💬 Etapa 4: Formatando resposta...');
-        const respostaFormatada = await formatarRespostaComLinks(
+        const respostaFormatada = await formatarResposta(
             mensagemUsuario, 
             requisicaoMontada,
             dadosMagazord
@@ -122,10 +122,10 @@ async function processarMensagemRecebida(mensagemUsuario, numeroUsuario) {
 }
 
 /**
- * Formata resposta com produtos e links do site
+ * Formata resposta com produtos (SEM links)
  */
-async function formatarRespostaComLinks(mensagemOriginal, requisicao, dadosMagazord) {
-    console.log('🎨 Formatando resposta final com links...');
+async function formatarResposta(mensagemOriginal, requisicao, dadosMagazord) {
+    console.log('🎨 Formatando resposta final...');
     
     const promptSistema = `Você é um assistente de vendas da Dana Jalecos, especializado em produtos profissionais.
 
@@ -133,25 +133,26 @@ async function formatarRespostaComLinks(mensagemOriginal, requisicao, dadosMagaz
 Formate uma resposta amigável e profissional para WhatsApp com os produtos encontrados.
 
 ## REGRAS IMPORTANTES:
-1. **SEMPRE inclua os links** dos produtos usando os dados fornecidos
-2. Mostre até 3 produtos com: nome, link
-3. Use emojis para deixar amigável
-4. Seja conciso e direto
-5. Incentive o cliente a clicar nos links
+1. Mostre até 5 produtos com: nome, preço (se disponível), características principais
+2. Use emojis para deixar amigável
+3. Seja conciso e direto
+4. Seja útil e incentive o cliente a perguntar mais detalhes
 
 ## FORMATO DA RESPOSTA:
 [Saudação baseada no que o cliente pediu]
 
 🔹 [Nome do Produto 1]
-🔗 [Link do produto 1]
+   💰 [Preço se tiver]
+   📋 [Breve descrição]
 
 🔹 [Nome do Produto 2]
-🔗 [Link do produto 2]
+   💰 [Preço se tiver]
+   📋 [Breve descrição]
 
-📱 Qualquer dúvida, estou à disposição!
+📱 Posso ajudar com mais informações sobre algum produto específico?
 
 ## DADOS IMPORTANTES:
-- NÃO invente produtos ou links
+- NÃO invente produtos
 - USE APENAS os dados fornecidos
 - Se não houver produtos, seja educado e sugira alternativas
 `;
@@ -159,9 +160,9 @@ Formate uma resposta amigável e profissional para WhatsApp com os produtos enco
     const promptUsuario = `Mensagem do cliente: "${mensagemOriginal}"
 
 Produtos encontrados:
-${JSON.stringify(dadosMagazord.data.items.slice(0, 3), null, 2)}
+${JSON.stringify(dadosMagazord.data.items.slice(0, 5), null, 2)}
 
-Formate a resposta incluindo os links (campo "link" de cada produto).`;
+Formate a resposta de forma amigável e profissional.`;
 
     const completion = await openai.chat.completions.create({
         model: "gpt-4o-mini",
