@@ -1,78 +1,108 @@
 import 'dotenv/config';
-import { GoogleGenerativeAI } from '@google/generative-ai';
-import { carregarPromptEntenderMensagem } from '../prompts/prompt-entender-mensagem.js';
-import { executarRequisicaoMagazord } from '../tools/magazord-api.js';
+import OpenAI from 'openai';
+import { carregarPromptInterpretarIntencao } from './prompt-interpretar-intencao.js';
+import { carregarPromptBuscarProduto } from '../tools/buscar-produto/prompt-buscar-produto.js';
+import { executarBuscarProduto } from '../tools/buscar-produto/executar-buscar-produto.js';
 
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: 'gemini-pro' });
+const openai = new OpenAI({
+    apiKey: process.env.OPENAI_API_KEY || process.env.CHATGPT_API_KEY
+});
 
 /**
  * Processa a mensagem recebida e retorna a resposta completa
+ * ARQUITETURA MODULAR COM TOOLS
  */
 async function processarMensagemRecebida(mensagemUsuario, numeroUsuario) {
     try {
         console.log('\n╔══════════════════════════════════════════════╗');
-        console.log('║  🧠 INICIANDO PROCESSAMENTO COM IA           ║');
+        console.log('║  🧠 PROCESSAMENTO MODULAR COM IA + TOOLS     ║');
         console.log('╚══════════════════════════════════════════════╝');
         console.log('📥 Mensagem:', mensagemUsuario);
         console.log('👤 Usuário:', numeroUsuario);
         
-        console.log('\n🤖 Etapa 1: Interpretando intenção do usuário...');
+        // ===================================================================
+        // ETAPA 1: IDENTIFICAR INTENÇÃO (qual ação executar)
+        // ===================================================================
+        console.log('\n🤖 Etapa 1: Identificando intenção...');
         
-        // Etapa 1: IA interpreta a intenção e monta a estrutura da requisição
-        const promptSistema = carregarPromptEntenderMensagem();
+        const promptIntencao = carregarPromptInterpretarIntencao();
         
-        console.log('🔑 Modelo:', 'gemini-pro');
-        console.log('📤 Enviando para Gemini...');
-        
-        const promptCompleto = `${promptSistema}\n\nMensagem do usuário: ${mensagemUsuario}\n\nRetorne APENAS um JSON válido, sem markdown.`;
-        const result = await model.generateContent(promptCompleto);
-        let responseText = result.response.text();
-        
-        // Remove markdown se vier com ```json
-        responseText = responseText.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+        const completionIntencao = await openai.chat.completions.create({
+            model: "gpt-4o-mini",
+            messages: [
+                { role: "system", content: promptIntencao },
+                { role: "user", content: mensagemUsuario }
+            ],
+            temperature: 0.3,
+            response_format: { type: "json_object" }
+        });
 
-        const intencaoIA = JSON.parse(responseText);
+        const intencao = JSON.parse(completionIntencao.choices[0].message.content);
         
-        console.log('✅ Resposta Gemini recebida!');
-        console.log('📊 Intenção identificada:', JSON.stringify(intencaoIA, null, 2));
+        console.log('✅ Intenção:', intencao.acao);
+        console.log('🎯 Confiança:', intencao.confianca);
 
-        // Se não conseguiu identificar intenção válida
-        if (!intencaoIA.acao || intencaoIA.acao === 'conversa') {
-            console.log('💬 Tipo: Conversa (sem busca API)');
+        // Se for apenas conversa
+        if (intencao.acao === 'conversa') {
+            console.log('💬 Tipo: Conversa simples');
             console.log('╚══════════════════════════════════════════════╝\n');
-            return intencaoIA.resposta || 'Olá! Sou o assistente da Dana Jalecos. Como posso ajudá-lo? Você pode me perguntar sobre jalecos ou gorros disponíveis!';
+            return 'Olá! Sou o assistente da Dana Jalecos. 👔\n\nPosso ajudá-lo a encontrar jalecos e gorros profissionais!\n\nO que você procura?';
         }
 
-        // Etapa 2: Executar requisição no Magazord com os dados estruturados
-        console.log('\n🔧 Etapa 2: Executando requisição na API Magazord...');
-        console.log('🎯 Ação:', intencaoIA.acao);
+        // ===================================================================
+        // ETAPA 2: TOOL MONTA REQUISIÇÃO DINAMICAMENTE
+        // ===================================================================
+        console.log('\n🛠️ Etapa 2: Tool montando requisição...');
+        
+        let requisicaoMontada;
+        
+        if (intencao.acao === 'buscar_produto') {
+            const promptBusca = carregarPromptBuscarProduto();
+            
+            console.log('📤 IA montando parâmetros da busca...');
+            
+            const completionBusca = await openai.chat.completions.create({
+                model: "gpt-4o-mini",
+                messages: [
+                    { role: "system", content: promptBusca },
+                    { role: "user", content: mensagemUsuario }
+                ],
+                temperature: 0.5,
+                response_format: { type: "json_object" }
+            });
+            
+            requisicaoMontada = JSON.parse(completionBusca.choices[0].message.content);
+            console.log('✅ Requisição montada:', JSON.stringify(requisicaoMontada, null, 2));
+        } else {
+            throw new Error(`Ação não suportada: ${intencao.acao}`);
+        }
+
+        // ===================================================================
+        // ETAPA 3: EXECUTAR TOOL ESPECÍFICA
+        // ===================================================================
+        console.log('\n⚡ Etapa 3: Executando tool...');
         
         let dadosMagazord;
         try {
-            dadosMagazord = await executarRequisicaoMagazord(intencaoIA);
-            console.log('✅ Dados recebidos do Magazord');
-            console.log('📦 Tipo resposta:', typeof dadosMagazord);
+            if (intencao.acao === 'buscar_produto') {
+                dadosMagazord = await executarBuscarProduto(requisicaoMontada);
+                console.log('✅ Tool executada com sucesso!');
+                console.log(`📦 ${dadosMagazord.data.items.length} produtos retornados`);
+            }
         } catch (error) {
-            console.error('⚠️ Erro ao acessar API Magazord:', error.message);
+            console.error('⚠️ Erro ao executar tool:', error.message);
             console.log('╚══════════════════════════════════════════════╝\n');
             
-            // Resposta de fallback quando API não está disponível
-            return `Desculpe, estou com dificuldade para acessar nosso catálogo neste momento. 😔
-
-Por favor, tente novamente em alguns instantes ou entre em contato diretamente conosco.
-
-📞 WhatsApp: +55 83 98751-6699
-🌐 Site: danajalecos.com.br
-
-Como alternativa, me diga exatamente o que você procura (modelo, cor, tamanho) e tentarei ajudar de outra forma!`;
+            return `Desculpe, estou com dificuldade para acessar nosso catálogo neste momento. 😔\n\nPor favor, tente novamente em alguns instantes ou entre em contato diretamente conosco.\n\n📞 WhatsApp: +55 83 98751-6699\n🌐 Site: danajalecos.com.br`;
         }
 
-        // Etapa 3: IA formata a resposta com os dados reais
-        console.log('\n💬 Etapa 3: Formatando resposta com IA...');
-        const respostaFormatada = await formatarRespostaParaUsuario(
+        // ===================================================================
+        // ETAPA 4: IA FORMATA RESPOSTA HUMANIZADA COM LINKS
+        // ===================================================================
+        console.log('\n💬 Etapa 4: Formatando resposta...');
+        const respostaFormatada = await formatarRespostaComLinks(
             mensagemUsuario, 
-            intencaoIA, 
+            requisicaoMontada,
             dadosMagazord
         );
 
@@ -92,32 +122,57 @@ Como alternativa, me diga exatamente o que você procura (modelo, cor, tamanho) 
 }
 
 /**
- * Formata a resposta da IA com os dados do Magazord
+ * Formata resposta com produtos e links do site
  */
-async function formatarRespostaParaUsuario(mensagemOriginal, intencao, dadosMagazord) {
-    console.log('🎨 Formatando resposta final...');
+async function formatarRespostaComLinks(mensagemOriginal, requisicao, dadosMagazord) {
+    console.log('🎨 Formatando resposta final com links...');
     
-    const { carregarPromptFormatarResposta } = await import('../prompts/prompt-formatar-resposta.js');
-    const promptSistema = carregarPromptFormatarResposta();
-    
-    const promptUsuario = `
-Mensagem original do cliente: "${mensagemOriginal}"
+    const promptSistema = `Você é um assistente de vendas da Dana Jalecos, especializado em produtos profissionais.
 
-Intenção identificada: ${JSON.stringify(intencao, null, 2)}
+## SUA TAREFA
+Formate uma resposta amigável e profissional para WhatsApp com os produtos encontrados.
 
-Dados retornados do Magazord:
-${JSON.stringify(dadosMagazord, null, 2)}
+## REGRAS IMPORTANTES:
+1. **SEMPRE inclua os links** dos produtos usando os dados fornecidos
+2. Mostre até 3 produtos com: nome, link
+3. Use emojis para deixar amigável
+4. Seja conciso e direto
+5. Incentive o cliente a clicar nos links
 
-Formate uma resposta clara e útil para o cliente.
+## FORMATO DA RESPOSTA:
+[Saudação baseada no que o cliente pediu]
+
+🔹 [Nome do Produto 1]
+🔗 [Link do produto 1]
+
+🔹 [Nome do Produto 2]
+🔗 [Link do produto 2]
+
+📱 Qualquer dúvida, estou à disposição!
+
+## DADOS IMPORTANTES:
+- NÃO invente produtos ou links
+- USE APENAS os dados fornecidos
+- Se não houver produtos, seja educado e sugira alternativas
 `;
+    
+    const promptUsuario = `Mensagem do cliente: "${mensagemOriginal}"
 
-    console.log('📤 Enviando para Gemini formatação...');
+Produtos encontrados:
+${JSON.stringify(dadosMagazord.data.items.slice(0, 3), null, 2)}
 
-    const result = await model.generateContent(`${promptSistema}\n\n${promptUsuario}`);
-    const respostaFormatada = result.response.text();
+Formate a resposta incluindo os links (campo "link" de cada produto).`;
 
-    console.log('✅ Formatação concluída!');
-    return respostaFormatada;
+    const completion = await openai.chat.completions.create({
+        model: "gpt-4o-mini",
+        messages: [
+            { role: "system", content: promptSistema },
+            { role: "user", content: promptUsuario }
+        ],
+        temperature: 0.7
+    });
+
+    return completion.choices[0].message.content;
 }
 
 export { processarMensagemRecebida };

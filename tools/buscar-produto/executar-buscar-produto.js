@@ -1,0 +1,94 @@
+import 'dotenv/config';
+import axios from 'axios';
+
+const MAGAZORD_CONFIG = {
+    baseURL: process.env.MAGAZORD_URL,
+    auth: {
+        username: process.env.MAGAZORD_USER,
+        password: process.env.MAGAZORD_PASSWORD
+    },
+    headers: {
+        'Content-Type': 'application/json'
+    }
+};
+
+/**
+ * Executa busca de produtos no Magazord v2
+ * @param {Object} requisicao - Estrutura montada pela IA com parametros dinâmicos
+ * @returns {Promise<Object>} Dados dos produtos + links formatados
+ */
+async function executarBuscarProduto(requisicao) {
+    const { parametros } = requisicao;
+    
+    console.log('\n=== EXECUTANDO BUSCA DE PRODUTO ===');
+    console.log('Parâmetros recebidos:', JSON.stringify(parametros, null, 2));
+    
+    try {
+        const response = await axios.get(`${MAGAZORD_CONFIG.baseURL}/v2/site/produto`, {
+            params: parametros,
+            auth: MAGAZORD_CONFIG.auth,
+            headers: MAGAZORD_CONFIG.headers
+        });
+        
+        console.log('✅ Busca executada com sucesso!');
+        console.log(`📦 ${response.data.data.items.length} produtos encontrados`);
+        
+        // Enriquecer produtos com links
+        const produtosComLinks = response.data.data.items.map(produto => {
+            // Gera slug do produto baseado no nome
+            const slug = gerarSlugProduto(produto);
+            
+            return {
+                ...produto,
+                link: `https://www.danajalecos.com.br/${slug}`
+            };
+        });
+        
+        return {
+            ...response.data,
+            data: {
+                ...response.data.data,
+                items: produtosComLinks
+            }
+        };
+        
+    } catch (error) {
+        console.error('❌ Erro ao buscar produtos:', error.message);
+        if (error.response) {
+            console.error('Status:', error.response.status);
+            console.error('Dados:', error.response.data);
+        }
+        throw error;
+    }
+}
+
+/**
+ * Gera slug do produto para montar URL
+ * Exemplo: "Jaleco Feminino Heloisa Manga Curta Amarelo" 
+ * → "jaleco-feminino-heloisa-manga-curta-amarelo"
+ */
+function gerarSlugProduto(produto) {
+    const nome = produto.nome || '';
+    const codigo = produto.codigo || '';
+    
+    // Pega o nome e converte para slug
+    let slug = nome
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '') // Remove acentos
+        .replace(/[^a-z0-9\s-]/g, '') // Remove caracteres especiais
+        .trim()
+        .replace(/\s+/g, '-'); // Substitui espaços por hífens
+    
+    // Se tiver código, adiciona no final
+    if (codigo) {
+        const codigoSlug = codigo
+            .toLowerCase()
+            .replace(/[^a-z0-9-]/g, '-');
+        slug = `${slug}-${codigoSlug}`;
+    }
+    
+    return slug;
+}
+
+export { executarBuscarProduto };
