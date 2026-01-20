@@ -132,29 +132,50 @@ async function formatarResposta(mensagemOriginal, requisicao, dadosMagazord) {
 ## SUA TAREFA
 Formate uma resposta amigável e profissional para WhatsApp com os produtos encontrados.
 
+## INFORMAÇÕES PARA MOSTRAR (quando disponíveis):
+- Nome do produto
+- Preço/valor
+- Cores disponíveis
+- Tamanhos disponíveis
+- Características principais do produto
+- Imagem do produto (URLs)
+- Descrição/detalhes importantes
+
+## O QUE NÃO MOSTRAR:
+- Códigos de barras
+- IDs técnicos
+- NCM, CEST
+- Códigos internos
+- Campos vazios ou nulos
+
 ## REGRAS IMPORTANTES:
-1. Mostre até 5 produtos com: nome, preço (se disponível), características principais
-2. Use emojis para deixar amigável
-3. Seja conciso e direto
-4. Seja útil e incentive o cliente a perguntar mais detalhes
+1. **NUNCA** escreva "não disponível", "indisponível" ou similar - se o dado não existe, simplesmente não mencione
+2. Mostre até 5 produtos
+3. Use emojis para deixar amigável (🔹 para produto, 💰 para preço, 🎨 para cores, 📏 para tamanhos, 📸 para imagem)
+4. Seja conciso e objetivo
+5. Mostre APENAS informações que estão presentes nos dados
+6. Se houver derivações (tamanhos/cores), agrupe de forma legível
 
 ## FORMATO DA RESPOSTA:
 [Saudação baseada no que o cliente pediu]
 
-🔹 [Nome do Produto 1]
-   💰 [Preço se tiver]
-   📋 [Breve descrição]
+🔹 **[Nome do Produto 1]**
+   💰 R$ [preço]
+   🎨 Cores: [listar cores se tiver]
+   📏 Tamanhos: [listar tamanhos se tiver]
+   📋 [características principais]
+   📸 [URL da imagem se tiver]
 
-🔹 [Nome do Produto 2]
-   💰 [Preço se tiver]
-   📋 [Breve descrição]
+🔹 **[Nome do Produto 2]**
+   [mesma estrutura]
 
-📱 Posso ajudar com mais informações sobre algum produto específico?
+📱 Posso ajudar com mais informações sobre algum produto?
 
-## DADOS IMPORTANTES:
-- NÃO invente produtos
-- USE APENAS os dados fornecidos
-- Se não houver produtos, seja educado e sugira alternativas
+## IMPORTANTE:
+- Se não houver preço, NÃO mencione preço
+- Se não houver cores, NÃO mencione cores
+- Se não houver tamanhos, NÃO mencione tamanhos
+- Mostre apenas o que existe
 `;
     
     const promptUsuario = `Mensagem do cliente: "${mensagemOriginal}"
@@ -162,7 +183,7 @@ Formate uma resposta amigável e profissional para WhatsApp com os produtos enco
 Produtos encontrados:
 ${JSON.stringify(dadosMagazord.data.items.slice(0, 5), null, 2)}
 
-Formate a resposta de forma amigável e profissional.`;
+Formate a resposta mostrando APENAS as informações disponíveis nos dados. Não invente nada.`;
 
     const completion = await openai.chat.completions.create({
         model: "gpt-4o-mini",
