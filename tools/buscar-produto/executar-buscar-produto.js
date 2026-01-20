@@ -64,21 +64,12 @@ async function executarBuscarProduto(requisicao) {
 
 /**
  * Gera URL completa do produto no site
- * Padrão: /shop/{categoria}/{genero}/{modelo}/{slug-produto}/
- * Exemplo: /shop/jalecos/feminino/manuela/jaleco-feminino-manuela-rosa-pink-detalhes-azul-marinho/
+ * Padrão: /shop/{categoria}/{genero}/{modelo}/{slug-simplificado}/
+ * Exemplo: /shop/jalecos/feminino/manuela/jaleco-manuela-branco/
  */
 function gerarUrlProduto(produto) {
     const nome = produto.nome || '';
     const modelo = produto.modelo || '';
-    
-    // Gera slug do nome completo do produto
-    const slugProduto = nome
-        .toLowerCase()
-        .normalize('NFD')
-        .replace(/[\u0300-\u036f]/g, '') // Remove acentos
-        .replace(/[^a-z0-9\s-]/g, '') // Remove caracteres especiais
-        .trim()
-        .replace(/\s+/g, '-'); // Substitui espaços por hífens
     
     // Extrai gênero do nome (feminino/masculino/unissex)
     let genero = 'unissex';
@@ -101,6 +92,21 @@ function gerarUrlProduto(produto) {
             }
         }
     }
+    
+    // Gera slug simplificado: tipo-modelo-cor/características principais
+    // Remove palavras genéricas e mantém apenas essenciais
+    const palavrasRemover = ['feminino', 'masculino', 'unissex', 'manga', 'curta', 'longa', 'detalhes'];
+    const slugProduto = nome
+        .toLowerCase()
+        .split(' ')
+        .filter(palavra => !palavrasRemover.includes(palavra))
+        .join('-')
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '') // Remove acentos
+        .replace(/[^a-z0-9\s-]/g, '') // Remove caracteres especiais
+        .trim()
+        .replace(/\s+/g, '-') // Substitui espaços por hífens
+        .replace(/-+/g, '-'); // Remove hífens duplicados
     
     // Categoria base (jalecos, gorros, etc)
     let categoriaBase = 'jalecos';
