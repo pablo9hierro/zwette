@@ -1,10 +1,14 @@
 import 'dotenv/config';
-import OpenAI from 'openai';
+import { GoogleGenerativeAI } from '@google/generative-ai';
 import { carregarPromptEntenderMensagem } from '../prompts/prompt-entender-mensagem.js';
 import { executarRequisicaoMagazord } from '../tools/magazord-api.js';
 
-const openai = new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY || process.env.CHATGPT_API_KEY
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+const model = genAI.getGenerativeModel({ 
+    model: 'gemini-1.5-flash',
+    generationConfig: {
+        responseMimeType: 'application/json'
+    }
 });
 
 /**
@@ -23,22 +27,16 @@ async function processarMensagemRecebida(mensagemUsuario, numeroUsuario) {
         // Etapa 1: IA interpreta a intenção e monta a estrutura da requisição
         const promptSistema = carregarPromptEntenderMensagem();
         
-        console.log('🔑 Modelo:', 'gpt-4o-mini');
-        console.log('📤 Enviando para ChatGPT...');
+        console.log('🔑 Modelo:', 'gemini-1.5-flash');
+        console.log('📤 Enviando para Gemini...');
         
-        const completion = await openai.chat.completions.create({
-            model: "gpt-4o-mini",
-            messages: [
-                { role: "system", content: promptSistema },
-                { role: "user", content: mensagemUsuario }
-            ],
-            temperature: 0.7,
-            response_format: { type: "json_object" }
-        });
+        const prompt = `${promptSistema}\n\nMensagem do usuário: ${mensagemUsuario}`;
+        const result = await model.generateContent(prompt);
+        const responseText = result.response.text();
 
-        const intencaoIA = JSON.parse(completion.choices[0].message.content);
+        const intencaoIA = JSON.parse(responseText);
         
-        console.log('✅ Resposta ChatGPT recebida!');
+        console.log('✅ Resposta Gemini recebida!');
         console.log('📊 Intenção identificada:', JSON.stringify(intencaoIA, null, 2));
 
         // Se não conseguiu identificar intenção válida
@@ -115,19 +113,13 @@ ${JSON.stringify(dadosMagazord, null, 2)}
 Formate uma resposta clara e útil para o cliente.
 `;
 
-    console.log('📤 Enviando para ChatGPT formatação...');
+    console.log('📤 Enviando para Gemini formatação...');
 
-    const completion = await openai.chat.completions.create({
-        model: "gpt-4o-mini",
-        messages: [
-            { role: "system", content: promptSistema },
-            { role: "user", content: promptUsuario }
-        ],
-        temperature: 0.8
-    });
+    const result = await model.generateContent(`${promptSistema}\n\n${promptUsuario}`);
+    const respostaFormatada = result.response.text();
 
     console.log('✅ Formatação concluída!');
-    return completion.choices[0].message.content;
+    return respostaFormatada;
 }
 
 export { processarMensagemRecebida };
