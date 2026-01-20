@@ -160,22 +160,27 @@ Formate uma resposta amigável e profissional para WhatsApp com os produtos enco
 [Saudação baseada no que o cliente pediu]
 
 🔹 **[Nome do Produto 1]**
-   💰 R$ [preço]
-   🎨 Cores: [listar cores se tiver]
-   📏 Tamanhos: [listar tamanhos se tiver]
-   📋 [características principais]
-   📸 [URL da imagem se tiver]
+   [Mostre APENAS as informações que EXISTEM nos dados, por exemplo:]
+   💰 R$ 89,90  (SE tiver preço)
+   🎨 Cores: Branco, Azul  (SE tiver cores)
+   📏 Tamanhos: P, M, G  (SE tiver tamanhos)
+   📋 [características]  (SE tiver)
 
 🔹 **[Nome do Produto 2]**
-   [mesma estrutura]
+   [mesma estrutura - sempre omitindo o que não existe]
 
-📱 Posso ajudar com mais informações sobre algum produto?
+📱 Posso ajudar com mais informações?
 
-## IMPORTANTE:
-- Se não houver preço, NÃO mencione preço
-- Se não houver cores, NÃO mencione cores
-- Se não houver tamanhos, NÃO mencione tamanhos
-- Mostre apenas o que existe
+## CRÍTICO - NUNCA FAÇA ISSO:
+❌ "R$ [preço não disponível]"
+❌ "[Imagem do produto](URL da imagem)"
+❌ "Cores: não disponível"
+❌ Qualquer placeholder ou texto genérico
+
+## SEMPRE FAÇA ISSO:
+✅ Mostre SOMENTE dados reais que existem
+✅ Se não tem o dado, pule completamente
+✅ Exemplo: Se produto não tem preço, não mencione nada sobre preço
 `;
     
     const promptUsuario = `Mensagem do cliente: "${mensagemOriginal}"
