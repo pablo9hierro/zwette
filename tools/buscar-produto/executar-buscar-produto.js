@@ -35,12 +35,12 @@ async function executarBuscarProduto(requisicao) {
         
         // Enriquecer produtos com links
         const produtosComLinks = response.data.data.items.map(produto => {
-            // Gera slug do produto baseado no nome
-            const slug = gerarSlugProduto(produto);
+            // Gera URL completa do produto
+            const url = gerarUrlProduto(produto);
             
             return {
                 ...produto,
-                link: `https://www.danajalecos.com.br/${slug}`
+                link: url
             };
         });
         
@@ -63,10 +63,54 @@ async function executarBuscarProduto(requisicao) {
 }
 
 /**
- * Gera slug do produto para montar URL
- * Exemplo: "Jaleco Feminino Heloisa Manga Curta Amarelo" 
- * → "jaleco-feminino-heloisa-manga-curta-amarelo"
+ * Gera URL completa do produto no site
+ * Padrão: /shop/{categoria}/{genero}/{modelo}/{slug-produto}/
+ * Exemplo: /shop/jalecos/feminino/manuela/jaleco-feminino-manuela-rosa-pink-detalhes-azul-marinho/
  */
+function gerarUrlProduto(produto) {
+    const nome = produto.nome || '';
+    const modelo = produto.modelo || '';
+    
+    // Gera slug do nome completo do produto
+    const slugProduto = nome
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '') // Remove acentos
+        .replace(/[^a-z0-9\s-]/g, '') // Remove caracteres especiais
+        .trim()
+        .replace(/\s+/g, '-'); // Substitui espaços por hífens
+    
+    // Extrai gênero do nome (feminino/masculino/unissex)
+    let genero = 'unissex';
+    const nomeLower = nome.toLowerCase();
+    if (nomeLower.includes('feminino')) genero = 'feminino';
+    else if (nomeLower.includes('masculino')) genero = 'masculino';
+    
+    // Extrai modelo específico (palavra após Feminino/Masculino/Unissex)
+    let identificadorModelo = modelo.toLowerCase();
+    const partes = nome.split(' ');
+    for (let i = 0; i < partes.length - 1; i++) {
+        const palavra = partes[i].toLowerCase();
+        if (palavra === 'feminino' || palavra === 'masculino' || palavra === 'unissex') {
+            if (partes[i + 1]) {
+                identificadorModelo = partes[i + 1].toLowerCase()
+                    .normalize('NFD')
+                    .replace(/[\u0300-\u036f]/g, '')
+                    .replace(/[^a-z0-9-]/g, '');
+                break;
+            }
+        }
+    }
+    
+    // Categoria base (jalecos, gorros, etc)
+    let categoriaBase = 'jalecos';
+    if (modelo.toLowerCase().includes('gorro')) {
+        categoriaBase = 'gorros';
+    }
+    
+    return `https://www.danajalecos.com.br/shop/${categoriaBase}/${genero}/${identificadorModelo}/${slugProduto}/`;
+}
+
 function gerarSlugProduto(produto) {
     const nome = produto.nome || '';
     const codigo = produto.codigo || '';
