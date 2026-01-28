@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "tipoProduto": "Outros",
+    "totalProdutos": 6,
+    "totalCores": 9,
+    "totalModelos": 3,
+    "dataProcessamento": "2026-01-27T01:19:20.683Z",
+    "dataRefatoracao": "2026-01-27T05:11:36.245Z",
+    "dataLimpeza": "2026-01-27T19:53:32.695Z",
+    "camposRemovidos": [
+      "preco",
+      "imagem",
+      "imagemPrincipal",
+      "cores[].imagem",
+      "variacoes[].imagem"
+    ],
+    "camposMantidos": [
+      "link",
+      "linkPrincipal",
+      "cores[].link",
+      "variacoes[].link"
+    ]
+  },
+  "modelos": {
+    "Comfy": {
+      "cores": [
+        "Azul Marinho",
+        "Chumbo",
+        "Preto",
+        "Rosa Nude"
+      ],
+      "estampas": [],
+      "totalVariacoes": 4,
+      "totalProdutos": 4
+    },
+    "Feminina": {
+      "cores": [
+        "Branco",
+        "Preto"
+      ],
+      "estampas": [],
+      "totalVariacoes": 2,
+      "totalProdutos": 1
+    },
+    "Porta": {
+      "cores": [],
+      "estampas": [
+        "Estampado"
+      ],
+      "totalVariacoes": 1,
+      "totalProdutos": 1
+    }
+  },
+  "produtosOriginais": [
+    {
+      "codigoProduto": "2437",
+      "sku": "401-SD-055-000-FFa",
+      "nome": "Vestido Feminino Comfy Rosa Nude",
+      "nomeCompleto": "Vestido Feminino Comfy Rosa Nude",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  97% Poliéster 3 % Elastano        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Elastano Premium        Gênero  Feminino        Cor  Rosa Nude": "Composição  97% Poliéster 3 % Elastano Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Elastano Premium Gênero  Feminino Cor  Rosa Nude"
+      },
+      "tipoProduto": null,
+      "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-rosa-nude",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Comfy Rosa Nude",
+          "tituloCompleto": "Vestido Feminino Comfy Rosa Nude"
+        },
+        {
+          "nome": "Feminino Comfy Preto",
+          "tituloCompleto": "Vestido Feminino Comfy Preto"
+        },
+        {
+          "nome": "Comfy Azul Marinho",
+          "tituloCompleto": "Vestido Feminino Comfy Azul Marinho"
+        },
+        {
+          "nome": "Feminino Comfy Chumbo",
+          "tituloCompleto": "Vestido Feminino Comfy Chumbo"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Rosa",
+        "Rosa Nude",
+        "Nude",
+        "Preto",
+        "Azul",
+        "Azul Marinho",
+        "Chumbo"
+      ],
+      "modelo": "Vestido Comfy"
+    },
+    {
+      "codigoProduto": "2433",
+      "sku": "401-SD-050-000-FFa",
+      "nome": "Vestido Feminino Comfy Chumbo",
+      "nomeCompleto": "Vestido Feminino Comfy Chumbo",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  97% Poliéster 3% Elastano        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Elastano Premium        Gênero  Feminino        Cor  Chumbo": "Composição  97% Poliéster 3% Elastano Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Elastano Premium Gênero  Feminino Cor  Chumbo"
+      },
+      "tipoProduto": null,
+      "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-chumbo",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Feminino Comfy Chumbo",
+          "tituloCompleto": "Vestido Feminino Comfy Chumbo"
+        },
+        {
+          "nome": "Feminino Comfy Preto",
+          "tituloCompleto": "Vestido Feminino Comfy Preto"
+        },
+        {
+          "nome": "Comfy Azul Marinho",
+          "tituloCompleto": "Vestido Feminino Comfy Azul Marinho"
+        },
+        {
+          "nome": "Comfy Rosa Nude",
+          "tituloCompleto": "Vestido Feminino Comfy Rosa Nude"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Chumbo",
+        "Preto",
+        "Azul",
+        "Azul Marinho",
+        "Rosa",
+        "Rosa Nude",
+        "Nude"
+      ],
+      "modelo": "Vestido Comfy"
+    },
+    {
+      "codigoProduto": "2429",
+      "sku": "401-SD-070-000-FFa",
+      "nome": "Vestido Feminino Comfy Azul Marinho",
+      "nomeCompleto": "Vestido Feminino Comfy Azul Marinho",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  97% Poliéster 3% Elastano        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Elastano Premium        Gênero  Feminino        Cor  Azul Marinho": "Composição  97% Poliéster 3% Elastano Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Elastano Premium Gênero  Feminino Cor  Azul Marinho"
+      },
+      "tipoProduto": null,
+      "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-azul-marinho",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Comfy Azul Marinho",
+          "tituloCompleto": "Vestido Feminino Comfy Azul Marinho"
+        },
+        {
+          "nome": "Feminino Comfy Preto",
+          "tituloCompleto": "Vestido Feminino Comfy Preto"
+        },
+        {
+          "nome": "Feminino Comfy Chumbo",
+          "tituloCompleto": "Vestido Feminino Comfy Chumbo"
+        },
+        {
+          "nome": "Comfy Rosa Nude",
+          "tituloCompleto": "Vestido Feminino Comfy Rosa Nude"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Azul",
+        "Azul Marinho",
+        "Preto",
+        "Chumbo",
+        "Rosa",
+        "Rosa Nude",
+        "Nude"
+      ],
+      "modelo": "Vestido Comfy"
+    },
+    {
+      "codigoProduto": "2424",
+      "sku": "401-SD-051-000-FFa",
+      "nome": "Vestido Feminino Comfy Preto",
+      "nomeCompleto": "Vestido Feminino Comfy Preto",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  97% Poliéster 3 % Elastano        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Elastano Premium        Gênero  Feminino        Cor  Preto": "Composição  97% Poliéster 3 % Elastano Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Elastano Premium Gênero  Feminino Cor  Preto"
+      },
+      "tipoProduto": null,
+      "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-preto",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Feminino Comfy Preto",
+          "tituloCompleto": "Vestido Feminino Comfy Preto"
+        },
+        {
+          "nome": "Comfy Azul Marinho",
+          "tituloCompleto": "Vestido Feminino Comfy Azul Marinho"
+        },
+        {
+          "nome": "Feminino Comfy Chumbo",
+          "tituloCompleto": "Vestido Feminino Comfy Chumbo"
+        },
+        {
+          "nome": "Comfy Rosa Nude",
+          "tituloCompleto": "Vestido Feminino Comfy Rosa Nude"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Preto",
+        "Azul",
+        "Azul Marinho",
+        "Chumbo",
+        "Rosa",
+        "Rosa Nude",
+        "Nude"
+      ],
+      "modelo": "Vestido Comfy"
+    },
+    {
+      "codigoProduto": "313",
+      "sku": "355-SD-012-000-FFa",
+      "nome": "Dolma Feminina Algodao com elastano Preto",
+      "nomeCompleto": "Dolma Feminina Algodao com elastano Preto",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  50% Algodão 50% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Algodão com elastano        Gênero  Feminino        Cor  Preto": "Composição  50% Algodão 50% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Algodão com elastano Gênero  Feminino Cor  Preto"
+      },
+      "tipoProduto": null,
+      "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/feminino-dolmas/dolma-feminina-algodao-preto/",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "com elastano Preto",
+          "tituloCompleto": "Dolma Feminina Algodao com elastano Preto"
+        },
+        {
+          "nome": "com elastano Branco",
+          "tituloCompleto": "Dolma Feminina Algodao com elastano Branco"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Preto",
+        "Branco"
+      ],
+      "modelo": "Feminina"
+    },
+    {
+      "codigoProduto": "1744",
+      "sku": "401-PD-000Fa",
+      "nome": "Porta Copo Dupla Face",
+      "nomeCompleto": "Porta Copo Dupla Face",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Cuidado e Lavagem  use um pano macio e levemente úmido para a limpeza, evitando produtos químicos agressivos. Evite exposição prolongada ao sol e a objetos pontiagudos que possam danificar o material.        Tecido  Couro PU": "Cuidado e Lavagem  use um pano macio e levemente úmido para a limpeza, evitando produtos químicos agressivos. Evite exposição prolongada ao sol e a objetos pontiagudos que possam danificar o material. Tecido  Couro PU"
+      },
+      "tipoProduto": null,
+      "link": "https://www.danajalecos.com.br/porta-copo-dupla-face",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Estampado"
+      ],
+      "modelo": "Porta"
+    }
+  ]
+}

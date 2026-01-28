@@ -1,0 +1,604 @@
+{
+  "metadata": {
+    "tipoProduto": "Macacão",
+    "totalProdutos": 9,
+    "totalCores": 12,
+    "totalModelos": 2,
+    "dataProcessamento": "2026-01-27T01:19:20.671Z",
+    "dataRefatoracao": "2026-01-27T05:11:36.239Z",
+    "dataLimpeza": "2026-01-27T19:53:32.657Z",
+    "camposRemovidos": [
+      "preco",
+      "imagem",
+      "imagemPrincipal",
+      "cores[].imagem",
+      "variacoes[].imagem"
+    ],
+    "camposMantidos": [
+      "link",
+      "linkPrincipal",
+      "cores[].link",
+      "variacoes[].link"
+    ]
+  },
+  "modelos": {
+    "Manga (Manga Longa)": {
+      "cores": [
+        "Bordo",
+        "Branco"
+      ],
+      "estampas": [],
+      "totalVariacoes": 2,
+      "totalProdutos": 2
+    },
+    "Manga (Manga Curta)": {
+      "cores": [
+        "Branco",
+        "Chumbo",
+        "Curta Azul Bebe",
+        "Curta Azul Marinho",
+        "Curta Rosa Nude",
+        "Curta Rosa Pink",
+        "Curta Verde Claro"
+      ],
+      "estampas": [],
+      "totalVariacoes": 7,
+      "totalProdutos": 7
+    }
+  },
+  "produtosOriginais": [
+    {
+      "codigoProduto": "2380",
+      "sku": "522-SD-002-000-FFa",
+      "nome": "Macacao Feminino Manga Longa Bordo",
+      "nomeCompleto": "Macacao Feminino Manga Longa Bordo",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino        Cor  Bordô": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino Cor  Bordô"
+      },
+      "tipoProduto": "Macacão",
+      "link": "https://www.danajalecos.com.br/macacao-feminino-manga-longa-bordo",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Manga Longa Bordo",
+          "tituloCompleto": "Macacao Feminino Manga Longa Bordo"
+        },
+        {
+          "nome": "Manga Longa Branco",
+          "tituloCompleto": "Macacao Feminino Manga Longa Branco"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Bordo",
+        "Branco"
+      ],
+      "modelo": "Manga Longa"
+    },
+    {
+      "codigoProduto": "2377",
+      "sku": "522-MC-004-000-FFa",
+      "nome": "Macacao Feminino Manga Curta Rosa Pink",
+      "nomeCompleto": "Macacao Feminino Manga Curta Rosa Pink",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino        Cor  Rosa Pink": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino Cor  Rosa Pink"
+      },
+      "tipoProduto": "Macacão",
+      "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-rosa-pink/",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Curta Rosa Pink",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Pink"
+        },
+        {
+          "nome": "Manga Curta Branco",
+          "tituloCompleto": "Macacao Feminino Manga Curta Branco"
+        },
+        {
+          "nome": "Manga Curta Chumbo",
+          "tituloCompleto": "Macacao Feminino Manga Curta Chumbo"
+        },
+        {
+          "nome": "Curta Verde Claro",
+          "tituloCompleto": "Macacao Feminino Manga Curta Verde Claro"
+        },
+        {
+          "nome": "Curta Rosa Nude",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Nude"
+        },
+        {
+          "nome": "Curta Azul Bebe",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Bebe"
+        },
+        {
+          "nome": "Curta Azul Marinho",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Marinho"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Rosa",
+        "Rosa Pink",
+        "Branco",
+        "Chumbo",
+        "Verde",
+        "Verde Claro",
+        "Rosa Nude",
+        "Nude",
+        "Azul",
+        "Azul Bebe",
+        "Azul Marinho"
+      ],
+      "modelo": "Manga Curta"
+    },
+    {
+      "codigoProduto": "1504",
+      "sku": "522-MC-015-000-FFa",
+      "nome": "Macacao Feminino Manga Curta Azul Marinho",
+      "nomeCompleto": "Macacao Feminino Manga Curta Azul Marinho",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino        Cor  Azul Marinho": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino Cor  Azul Marinho"
+      },
+      "tipoProduto": "Macacão",
+      "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-azul-marinho/",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Curta Azul Marinho",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Marinho"
+        },
+        {
+          "nome": "Manga Curta Branco",
+          "tituloCompleto": "Macacao Feminino Manga Curta Branco"
+        },
+        {
+          "nome": "Manga Curta Chumbo",
+          "tituloCompleto": "Macacao Feminino Manga Curta Chumbo"
+        },
+        {
+          "nome": "Curta Verde Claro",
+          "tituloCompleto": "Macacao Feminino Manga Curta Verde Claro"
+        },
+        {
+          "nome": "Curta Rosa Nude",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Nude"
+        },
+        {
+          "nome": "Curta Azul Bebe",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Bebe"
+        },
+        {
+          "nome": "Curta Rosa Pink",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Pink"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Azul",
+        "Azul Marinho",
+        "Branco",
+        "Chumbo",
+        "Verde",
+        "Verde Claro",
+        "Rosa",
+        "Rosa Nude",
+        "Nude",
+        "Azul Bebe",
+        "Rosa Pink"
+      ],
+      "modelo": "Manga Curta"
+    },
+    {
+      "codigoProduto": "1514",
+      "sku": "522-MC-017-000-FFa",
+      "nome": "Macacao Feminino Manga Curta Azul Bebe",
+      "nomeCompleto": "Macacao Feminino Manga Curta Azul Bebe",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino        Cor  Azul Ciano": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino Cor  Azul Ciano"
+      },
+      "tipoProduto": "Macacão",
+      "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-azul-bebe/",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Curta Azul Bebe",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Bebe"
+        },
+        {
+          "nome": "Manga Curta Branco",
+          "tituloCompleto": "Macacao Feminino Manga Curta Branco"
+        },
+        {
+          "nome": "Manga Curta Chumbo",
+          "tituloCompleto": "Macacao Feminino Manga Curta Chumbo"
+        },
+        {
+          "nome": "Curta Verde Claro",
+          "tituloCompleto": "Macacao Feminino Manga Curta Verde Claro"
+        },
+        {
+          "nome": "Curta Rosa Nude",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Nude"
+        },
+        {
+          "nome": "Curta Azul Marinho",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Marinho"
+        },
+        {
+          "nome": "Curta Rosa Pink",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Pink"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Azul",
+        "Azul Bebe",
+        "Branco",
+        "Chumbo",
+        "Verde",
+        "Verde Claro",
+        "Rosa",
+        "Rosa Nude",
+        "Nude",
+        "Azul Marinho",
+        "Rosa Pink"
+      ],
+      "modelo": "Manga Curta"
+    },
+    {
+      "codigoProduto": "2369",
+      "sku": "522-MC-007-000-FFa",
+      "nome": "Macacao Feminino Manga Curta Rosa Nude",
+      "nomeCompleto": "Macacao Feminino Manga Curta Rosa Nude",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino        Cor  Rosa Nude": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino Cor  Rosa Nude"
+      },
+      "tipoProduto": "Macacão",
+      "link": "https://www.danajalecos.com.br/macacao-feminino-manga-curta-rosa-nude",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Curta Rosa Nude",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Nude"
+        },
+        {
+          "nome": "Manga Curta Branco",
+          "tituloCompleto": "Macacao Feminino Manga Curta Branco"
+        },
+        {
+          "nome": "Manga Curta Chumbo",
+          "tituloCompleto": "Macacao Feminino Manga Curta Chumbo"
+        },
+        {
+          "nome": "Curta Verde Claro",
+          "tituloCompleto": "Macacao Feminino Manga Curta Verde Claro"
+        },
+        {
+          "nome": "Curta Azul Bebe",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Bebe"
+        },
+        {
+          "nome": "Curta Azul Marinho",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Marinho"
+        },
+        {
+          "nome": "Curta Rosa Pink",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Pink"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Rosa",
+        "Rosa Nude",
+        "Nude",
+        "Branco",
+        "Chumbo",
+        "Verde",
+        "Verde Claro",
+        "Azul",
+        "Azul Bebe",
+        "Azul Marinho",
+        "Rosa Pink"
+      ],
+      "modelo": "Manga Curta"
+    },
+    {
+      "codigoProduto": "1515",
+      "sku": "522-MC-009-000-FFa",
+      "nome": "Macacao Feminino Manga Curta Verde Claro",
+      "nomeCompleto": "Macacao Feminino Manga Curta Verde Claro",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino        Cor  Verde Claro": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino Cor  Verde Claro"
+      },
+      "tipoProduto": "Macacão",
+      "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-verde-claro/",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Curta Verde Claro",
+          "tituloCompleto": "Macacao Feminino Manga Curta Verde Claro"
+        },
+        {
+          "nome": "Manga Curta Branco",
+          "tituloCompleto": "Macacao Feminino Manga Curta Branco"
+        },
+        {
+          "nome": "Manga Curta Chumbo",
+          "tituloCompleto": "Macacao Feminino Manga Curta Chumbo"
+        },
+        {
+          "nome": "Curta Rosa Nude",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Nude"
+        },
+        {
+          "nome": "Curta Azul Bebe",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Bebe"
+        },
+        {
+          "nome": "Curta Azul Marinho",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Marinho"
+        },
+        {
+          "nome": "Curta Rosa Pink",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Pink"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Verde",
+        "Verde Claro",
+        "Branco",
+        "Chumbo",
+        "Rosa",
+        "Rosa Nude",
+        "Nude",
+        "Azul",
+        "Azul Bebe",
+        "Azul Marinho",
+        "Rosa Pink"
+      ],
+      "modelo": "Manga Curta"
+    },
+    {
+      "codigoProduto": "1523",
+      "sku": "522-MC-014-000-FFa",
+      "nome": "Macacao Feminino Manga Curta Chumbo",
+      "nomeCompleto": "Macacao Feminino Manga Curta Chumbo",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino        Cor  Chumbo": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino Cor  Chumbo"
+      },
+      "tipoProduto": "Macacão",
+      "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-chumbo/",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Manga Curta Chumbo",
+          "tituloCompleto": "Macacao Feminino Manga Curta Chumbo"
+        },
+        {
+          "nome": "Manga Curta Branco",
+          "tituloCompleto": "Macacao Feminino Manga Curta Branco"
+        },
+        {
+          "nome": "Curta Verde Claro",
+          "tituloCompleto": "Macacao Feminino Manga Curta Verde Claro"
+        },
+        {
+          "nome": "Curta Rosa Nude",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Nude"
+        },
+        {
+          "nome": "Curta Azul Bebe",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Bebe"
+        },
+        {
+          "nome": "Curta Azul Marinho",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Marinho"
+        },
+        {
+          "nome": "Curta Rosa Pink",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Pink"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Chumbo",
+        "Branco",
+        "Verde",
+        "Verde Claro",
+        "Rosa",
+        "Rosa Nude",
+        "Nude",
+        "Azul",
+        "Azul Bebe",
+        "Azul Marinho",
+        "Rosa Pink"
+      ],
+      "modelo": "Manga Curta"
+    },
+    {
+      "codigoProduto": "1493",
+      "sku": "522-MC-008-000-FFa",
+      "nome": "Macacao Feminino Manga Curta Branco",
+      "nomeCompleto": "Macacao Feminino Manga Curta Branco",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino        Cor  Branco": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino Cor  Branco"
+      },
+      "tipoProduto": "Macacão",
+      "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-branco/",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Manga Curta Branco",
+          "tituloCompleto": "Macacao Feminino Manga Curta Branco"
+        },
+        {
+          "nome": "Manga Curta Chumbo",
+          "tituloCompleto": "Macacao Feminino Manga Curta Chumbo"
+        },
+        {
+          "nome": "Curta Verde Claro",
+          "tituloCompleto": "Macacao Feminino Manga Curta Verde Claro"
+        },
+        {
+          "nome": "Curta Rosa Nude",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Nude"
+        },
+        {
+          "nome": "Curta Azul Bebe",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Bebe"
+        },
+        {
+          "nome": "Curta Azul Marinho",
+          "tituloCompleto": "Macacao Feminino Manga Curta Azul Marinho"
+        },
+        {
+          "nome": "Curta Rosa Pink",
+          "tituloCompleto": "Macacao Feminino Manga Curta Rosa Pink"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Branco",
+        "Chumbo",
+        "Verde",
+        "Verde Claro",
+        "Rosa",
+        "Rosa Nude",
+        "Nude",
+        "Azul",
+        "Azul Bebe",
+        "Azul Marinho",
+        "Rosa Pink"
+      ],
+      "modelo": "Manga Curta"
+    },
+    {
+      "codigoProduto": "1499",
+      "sku": "522-SD-008-000-FFa",
+      "nome": "Macacao Feminino Manga Longa Branco",
+      "nomeCompleto": "Macacao Feminino Manga Longa Branco",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino        Cor  Branco": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino Cor  Branco"
+      },
+      "tipoProduto": "Macacão",
+      "link": "https://www.danajalecos.com.br/macacao-feminino-manga-longa-branco",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Manga Longa Branco",
+          "tituloCompleto": "Macacao Feminino Manga Longa Branco"
+        },
+        {
+          "nome": "Manga Longa Bordo",
+          "tituloCompleto": "Macacao Feminino Manga Longa Bordo"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Branco",
+        "Bordo"
+      ],
+      "modelo": "Manga Longa"
+    }
+  ]
+}

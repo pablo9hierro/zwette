@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "categoria": "Itens Não-Têxteis",
+    "descricao": "Produtos de escritório, acessórios e outros itens não relacionados a vestuário",
+    "totalProdutos": 6,
+    "dataProcessamento": "2026-01-27T01:19:20.803Z",
+    "totalModelos": 5,
+    "dataRefatoracao": "2026-01-27T05:11:36.241Z",
+    "dataLimpeza": "2026-01-27T19:53:32.675Z",
+    "camposRemovidos": [
+      "preco",
+      "imagem",
+      "imagemPrincipal",
+      "cores[].imagem",
+      "variacoes[].imagem"
+    ],
+    "camposMantidos": [
+      "link",
+      "linkPrincipal",
+      "cores[].link",
+      "variacoes[].link"
+    ]
+  },
+  "modelos": {
+    "Kit": {
+      "cores": [],
+      "estampas": [
+        "Estampado"
+      ],
+      "totalVariacoes": 1,
+      "totalProdutos": 1
+    },
+    "Desk": {
+      "cores": [],
+      "estampas": [
+        "Estampado"
+      ],
+      "totalVariacoes": 1,
+      "totalProdutos": 1
+    },
+    "Bandeja": {
+      "cores": [],
+      "estampas": [
+        "Estampado"
+      ],
+      "totalVariacoes": 1,
+      "totalProdutos": 1
+    },
+    "Porta": {
+      "cores": [],
+      "estampas": [
+        "Estampado"
+      ],
+      "totalVariacoes": 1,
+      "totalProdutos": 2
+    },
+    "Mouse": {
+      "cores": [],
+      "estampas": [
+        "Estampado"
+      ],
+      "totalVariacoes": 1,
+      "totalProdutos": 1
+    }
+  },
+  "produtosOriginais": [
+    {
+      "codigoProduto": "2316",
+      "sku": "101-MD-000-KIT5",
+      "nome": "Kit Office",
+      "nomeCompleto": "Kit Office",
+      "descricaoTitulo": null,
+      "descricaoCompleta": null,
+      "caracteristicas": null,
+      "tipoProduto": null,
+      "link": "https://www.danajalecos.com.br/kit-office",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Estampado"
+      ],
+      "modelo": "Kit"
+    },
+    {
+      "codigoProduto": "1814",
+      "sku": "301-DD-0005",
+      "nome": "Desk Pad Dupla Face",
+      "nomeCompleto": "Desk Pad Dupla Face",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Cuidado e Lavagem  use um pano macio e levemente úmido para a limpeza, evitando produtos químicos agressivos. Evite exposição prolongada ao sol e a objetos pontiagudos que possam danificar o material.        Tecido  Couro PU": "Cuidado e Lavagem  use um pano macio e levemente úmido para a limpeza, evitando produtos químicos agressivos. Evite exposição prolongada ao sol e a objetos pontiagudos que possam danificar o material. Tecido  Couro PU"
+      },
+      "tipoProduto": null,
+      "link": "https://www.danajalecos.com.br/desk-pad-dupla-face",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Estampado"
+      ],
+      "modelo": "Desk"
+    },
+    {
+      "codigoProduto": "1751",
+      "sku": "301-BD-000Fa",
+      "nome": "Bandeja Office Dupla Face",
+      "nomeCompleto": "Bandeja Office Dupla Face",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Cuidado e Lavagem  use um pano macio e levemente úmido para a limpeza, evitando produtos químicos agressivos. Evite exposição prolongada ao sol e a objetos pontiagudos que possam danificar o material.        Tecido  Couro PU": "Cuidado e Lavagem  use um pano macio e levemente úmido para a limpeza, evitando produtos químicos agressivos. Evite exposição prolongada ao sol e a objetos pontiagudos que possam danificar o material. Tecido  Couro PU"
+      },
+      "tipoProduto": null,
+      "link": "https://www.danajalecos.com.br/bandeja-office-dupla-face",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Estampado"
+      ],
+      "modelo": "Bandeja"
+    },
+    {
+      "codigoProduto": "1878",
+      "sku": "801-OD-000Fa",
+      "nome": "Porta Objetos Dupla Face",
+      "nomeCompleto": "Porta Objetos Dupla Face",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Cuidado e Lavagem  use um pano macio e levemente úmido para a limpeza, evitando produtos químicos agressivos. Evite exposição prolongada ao sol e a objetos pontiagudos que possam danificar o material.        Tecido  Couro PU": "Cuidado e Lavagem  use um pano macio e levemente úmido para a limpeza, evitando produtos químicos agressivos. Evite exposição prolongada ao sol e a objetos pontiagudos que possam danificar o material. Tecido  Couro PU"
+      },
+      "tipoProduto": null,
+      "link": "https://www.danajalecos.com.br/porta-objetos-dupla-face",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Estampado"
+      ],
+      "modelo": "Porta"
+    },
+    {
+      "codigoProduto": "1874",
+      "sku": "901-CD-000Fa",
+      "nome": "Porta Canetas Dupla Face",
+      "nomeCompleto": "Porta Canetas Dupla Face",
+      "descricaoTitulo": null,
+      "caracteristicas": null,
+      "tipoProduto": null,
+      "link": "https://www.danajalecos.com.br/porta-canetas-dupla-face",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Estampado"
+      ],
+      "modelo": "Porta"
+    },
+    {
+      "codigoProduto": "1880",
+      "sku": "101-MD-0005",
+      "nome": "Mouse Pad Dupla Face",
+      "nomeCompleto": "Mouse Pad Dupla Face",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Cuidado e Lavagem  use um pano macio e levemente úmido para a limpeza, evitando produtos químicos agressivos. Evite exposição prolongada ao sol e a objetos pontiagudos que possam danificar o material.        Tecido  Couro PU": "Cuidado e Lavagem  use um pano macio e levemente úmido para a limpeza, evitando produtos químicos agressivos. Evite exposição prolongada ao sol e a objetos pontiagudos que possam danificar o material. Tecido  Couro PU"
+      },
+      "tipoProduto": null,
+      "link": "https://www.danajalecos.com.br/mouse-pad-dupla-face",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Estampado"
+      ],
+      "modelo": "Mouse"
+    }
+  ]
+}

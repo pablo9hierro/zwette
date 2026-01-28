@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "tipoProduto": "Robe",
+    "totalProdutos": 3,
+    "totalCores": 5,
+    "totalModelos": 1,
+    "dataProcessamento": "2026-01-27T01:19:20.702Z",
+    "dataRefatoracao": "2026-01-27T05:11:36.248Z",
+    "dataLimpeza": "2026-01-27T19:53:32.730Z",
+    "camposRemovidos": [
+      "preco",
+      "imagem",
+      "imagemPrincipal",
+      "cores[].imagem",
+      "variacoes[].imagem"
+    ],
+    "camposMantidos": [
+      "link",
+      "linkPrincipal",
+      "cores[].link",
+      "variacoes[].link"
+    ]
+  },
+  "modelos": {
+    "Edition": {
+      "cores": [
+        "Rosa Nude",
+        "Wedding Branco",
+        "Wedding Preto"
+      ],
+      "estampas": [],
+      "totalVariacoes": 3,
+      "totalProdutos": 3
+    }
+  },
+  "produtosOriginais": [
+    {
+      "codigoProduto": "1757",
+      "sku": "217774Fa",
+      "nome": "Robe Wedding Edition Preto",
+      "nomeCompleto": "Robe Wedding Edition Preto",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  97% Poliéster 3% Elastano        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Crepe Ananda        Cor  Preto": "Composição  97% Poliéster 3% Elastano Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Crepe Ananda Cor  Preto"
+      },
+      "tipoProduto": "Robe",
+      "link": "https://www.danajalecos.com.br/robe-wedding-edition-preto",
+      "tamanhos": [
+        "P",
+        "M",
+        "G"
+      ],
+      "cores": [
+        {
+          "nome": "Wedding Edition Preto",
+          "tituloCompleto": "Robe Wedding Edition Preto"
+        },
+        {
+          "nome": "Edition Rosa Nude",
+          "tituloCompleto": "Robe Wedding Edition Rosa Nude"
+        },
+        {
+          "nome": "Wedding Edition Branco",
+          "tituloCompleto": "Robe Wedding Edition Branco"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Rosa",
+        "Rosa Nude",
+        "Nude",
+        "Branco"
+      ],
+      "modelo": "Wedding"
+    },
+    {
+      "codigoProduto": "1757",
+      "sku": "217773-PFa",
+      "nome": "Robe Wedding Edition Branco",
+      "nomeCompleto": "Robe Wedding Edition Branco",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  97% Poliéster 3% Elastano        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Crepe Ananda        Cor  Branco": "Composição  97% Poliéster 3% Elastano Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Crepe Ananda Cor  Branco"
+      },
+      "tipoProduto": "Robe",
+      "link": "https://www.danajalecos.com.br/robe-wedding-edition-branco",
+      "tamanhos": [
+        "P"
+      ],
+      "cores": [
+        {
+          "nome": "Wedding Edition Branco",
+          "tituloCompleto": "Robe Wedding Edition Branco"
+        },
+        {
+          "nome": "Edition Rosa Nude",
+          "tituloCompleto": "Robe Wedding Edition Rosa Nude"
+        },
+        {
+          "nome": "Wedding Edition Preto",
+          "tituloCompleto": "Robe Wedding Edition Preto"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Branco",
+        "Rosa",
+        "Rosa Nude",
+        "Nude",
+        "Preto"
+      ],
+      "modelo": "Wedding"
+    },
+    {
+      "codigoProduto": "1757",
+      "sku": "217772-PFa",
+      "nome": "Robe Wedding Edition Rosa Nude",
+      "nomeCompleto": "Robe Wedding Edition Rosa Nude",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  97% Poliéster 3% Elastano        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Crepe Ananda        Cor  Rosa Nude": "Composição  97% Poliéster 3% Elastano Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Crepe Ananda Cor  Rosa Nude"
+      },
+      "tipoProduto": "Robe",
+      "link": "https://www.danajalecos.com.br/robe-wedding-edition-rosa-nude",
+      "tamanhos": [
+        "P"
+      ],
+      "cores": [
+        {
+          "nome": "Edition Rosa Nude",
+          "tituloCompleto": "Robe Wedding Edition Rosa Nude"
+        },
+        {
+          "nome": "Wedding Edition Branco",
+          "tituloCompleto": "Robe Wedding Edition Branco"
+        },
+        {
+          "nome": "Wedding Edition Preto",
+          "tituloCompleto": "Robe Wedding Edition Preto"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Rosa Nude",
+        "Nude",
+        "Branco",
+        "Preto"
+      ],
+      "modelo": "Wedding"
+    }
+  ]
+}

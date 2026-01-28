@@ -1,0 +1,413 @@
+{
+  "metadata": {
+    "categoria": "Infantil",
+    "totalProdutos": 10,
+    "totalCores": 6,
+    "totalModelos": 3,
+    "dataProcessamento": "2026-01-27T01:19:20.749Z",
+    "dataRefatoracao": "2026-01-27T05:11:36.169Z",
+    "dataLimpeza": "2026-01-27T19:53:32.540Z",
+    "camposRemovidos": [
+      "preco",
+      "imagem",
+      "imagemPrincipal",
+      "cores[].imagem",
+      "variacoes[].imagem"
+    ],
+    "camposMantidos": [
+      "link",
+      "linkPrincipal",
+      "cores[].link",
+      "variacoes[].link"
+    ]
+  },
+  "modelos": {
+    "Marta": {
+      "cores": [
+        "Kids Branco"
+      ],
+      "estampas": [
+        "Kids Estampado Jardim ABC"
+      ],
+      "totalVariacoes": 2,
+      "totalProdutos": 4
+    },
+    "Bernardo": {
+      "cores": [
+        "Kids Branco"
+      ],
+      "estampas": [
+        "Kids Estampado Jardim ABC"
+      ],
+      "totalVariacoes": 2,
+      "totalProdutos": 4
+    },
+    "Kit": {
+      "cores": [
+        "Azul",
+        "Azul Bebe",
+        "Rosa",
+        "Rosa Bebe"
+      ],
+      "estampas": [],
+      "totalVariacoes": 4,
+      "totalProdutos": 2
+    }
+  },
+  "produtosOriginais": [
+    {
+      "codigoProduto": "1757",
+      "sku": "368-KD-250-000-FFa",
+      "nome": "Jaleco Feminino Marta Kids Estampado Jardim ABC",
+      "nomeCompleto": "Jaleco Feminino Marta Kids Estampado Jardim ABC",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino"
+      },
+      "tipoProduto": "Jaleco",
+      "link": "https://www.danajalecos.com.br/jaleco-feminino-marta-kids-estampado-jardim-abc",
+      "tamanhos": [
+        "1",
+        "10",
+        "12",
+        "14",
+        "2",
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "cores": [
+        {
+          "nome": "Feminino Marta Kids Estampado Jardim ABC",
+          "tituloCompleto": "Jaleco Feminino Marta Kids Estampado Jardim ABC"
+        },
+        {
+          "nome": "Feminino Marta Kids Branco",
+          "tituloCompleto": "Jaleco Feminino Marta Kids Branco"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Estampado",
+        "Branco"
+      ],
+      "modelo": "Marta"
+    },
+    {
+      "codigoProduto": "1757",
+      "sku": "368-KD-008-000-F5",
+      "nome": "Jaleco Feminino Marta Kids Branco",
+      "nomeCompleto": "Jaleco Feminino Marta Kids Branco",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino        Cor  Branco": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino Cor  Branco"
+      },
+      "tipoProduto": "Jaleco",
+      "link": "https://www.danajalecos.com.br/jaleco-feminino-marta-kids-branco",
+      "tamanhos": [
+        "1",
+        "10",
+        "12",
+        "14",
+        "2",
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "cores": [
+        {
+          "nome": "Feminino Marta Kids Branco",
+          "tituloCompleto": "Jaleco Feminino Marta Kids Branco"
+        },
+        {
+          "nome": "Feminino Marta Kids Estampado Jardim ABC",
+          "tituloCompleto": "Jaleco Feminino Marta Kids Estampado Jardim ABC"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Branco",
+        "Estampado"
+      ],
+      "modelo": "Marta"
+    },
+    {
+      "codigoProduto": "1757",
+      "sku": "339-KD-250-000-FFa",
+      "nome": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC",
+      "nomeCompleto": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Masculino": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Masculino"
+      },
+      "tipoProduto": "Jaleco",
+      "link": "https://www.danajalecos.com.br/jaleco-masculino-bernardo-kids-estampado-jardim-abc",
+      "tamanhos": [
+        "1",
+        "10",
+        "12",
+        "14",
+        "2",
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "cores": [
+        {
+          "nome": "Masculino Bernardo Kids Estampado Jardim ABC",
+          "tituloCompleto": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC"
+        },
+        {
+          "nome": "Masculino Bernardo Kids Branco",
+          "tituloCompleto": "Jaleco Masculino Bernardo Kids Branco"
+        }
+      ],
+      "sexo": "Masculino",
+      "coresDisponiveis": [
+        "Estampado",
+        "Branco"
+      ],
+      "modelo": "Bernardo"
+    },
+    {
+      "codigoProduto": "1757",
+      "sku": "339-KD-008-000-FFa",
+      "nome": "Jaleco Masculino Bernardo Kids Branco",
+      "nomeCompleto": "Jaleco Masculino Bernardo Kids Branco",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Masculino        Cor  Branco": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Masculino Cor  Branco"
+      },
+      "tipoProduto": "Jaleco",
+      "link": "https://www.danajalecos.com.br/jaleco-masculino-bernardo-kids-branco",
+      "tamanhos": [
+        "1",
+        "10",
+        "12",
+        "14",
+        "2",
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "cores": [
+        {
+          "nome": "Masculino Bernardo Kids Branco",
+          "tituloCompleto": "Jaleco Masculino Bernardo Kids Branco"
+        },
+        {
+          "nome": "Masculino Bernardo Kids Estampado Jardim ABC",
+          "tituloCompleto": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC"
+        }
+      ],
+      "sexo": "Masculino",
+      "coresDisponiveis": [
+        "Branco",
+        "Estampado"
+      ],
+      "modelo": "Bernardo"
+    },
+    {
+      "codigoProduto": "1757",
+      "sku": "339-KD-250-000-FFa",
+      "nome": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC",
+      "nomeCompleto": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Masculino": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Masculino"
+      },
+      "tipoProduto": "Jaleco",
+      "link": "https://www.danajalecos.com.br/jaleco-masculino-bernardo-kids-estampado-jardim-abc",
+      "tamanhos": [
+        "1",
+        "10",
+        "12",
+        "14",
+        "2",
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "cores": [
+        {
+          "nome": "Masculino Bernardo Kids Estampado Jardim ABC",
+          "tituloCompleto": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC"
+        },
+        {
+          "nome": "Masculino Bernardo Kids Branco",
+          "tituloCompleto": "Jaleco Masculino Bernardo Kids Branco"
+        }
+      ],
+      "sexo": "Masculino",
+      "coresDisponiveis": [
+        "Estampado",
+        "Branco"
+      ],
+      "modelo": "Bernardo"
+    },
+    {
+      "codigoProduto": "1757",
+      "sku": "368-KD-250-000-FFa",
+      "nome": "Jaleco Feminino Marta Kids Estampado Jardim ABC",
+      "nomeCompleto": "Jaleco Feminino Marta Kids Estampado Jardim ABC",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino"
+      },
+      "tipoProduto": "Jaleco",
+      "link": "https://www.danajalecos.com.br/jaleco-feminino-marta-kids-estampado-jardim-abc",
+      "tamanhos": [
+        "1",
+        "10",
+        "12",
+        "14",
+        "2",
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "cores": [
+        {
+          "nome": "Feminino Marta Kids Estampado Jardim ABC",
+          "tituloCompleto": "Jaleco Feminino Marta Kids Estampado Jardim ABC"
+        },
+        {
+          "nome": "Feminino Marta Kids Branco",
+          "tituloCompleto": "Jaleco Feminino Marta Kids Branco"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Estampado",
+        "Branco"
+      ],
+      "modelo": "Marta"
+    },
+    {
+      "codigoProduto": "1757",
+      "sku": "500-KI-000-017Fa",
+      "nome": "Kit Avental Infantil Azul Bebe",
+      "nomeCompleto": "Kit Avental Infantil Azul Bebe",
+      "descricaoTitulo": "ÚNICO",
+      "descricaoCompleta": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Unissex": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Unissex"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/kit-avental-infantil-azul-bebe-unico",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Azul",
+        "Azul Bebe"
+      ],
+      "modelo": "Kit"
+    },
+    {
+      "codigoProduto": "1757",
+      "sku": "368-KD-008-000-F5",
+      "nome": "Jaleco Feminino Marta Kids Branco",
+      "nomeCompleto": "Jaleco Feminino Marta Kids Branco",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Feminino        Cor  Branco": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Feminino Cor  Branco"
+      },
+      "tipoProduto": "Jaleco",
+      "link": "https://www.danajalecos.com.br/jaleco-feminino-marta-kids-branco",
+      "tamanhos": [
+        "1",
+        "10",
+        "12",
+        "14",
+        "2",
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "cores": [
+        {
+          "nome": "Feminino Marta Kids Branco",
+          "tituloCompleto": "Jaleco Feminino Marta Kids Branco"
+        },
+        {
+          "nome": "Feminino Marta Kids Estampado Jardim ABC",
+          "tituloCompleto": "Jaleco Feminino Marta Kids Estampado Jardim ABC"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Branco",
+        "Estampado"
+      ],
+      "modelo": "Marta"
+    },
+    {
+      "codigoProduto": "1757",
+      "sku": "500-KI-000-005Fa",
+      "nome": "Kit Avental Infantil Rosa Bebe",
+      "nomeCompleto": "Kit Avental Infantil Rosa Bebe",
+      "descricaoTitulo": "ÚNICO",
+      "descricaoCompleta": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Unissex": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Unissex"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/kit-avental-infantil-rosa-bebe-unico",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Rosa Bebe"
+      ],
+      "modelo": "Kit"
+    },
+    {
+      "codigoProduto": "1757",
+      "sku": "339-KD-008-000-FFa",
+      "nome": "Jaleco Masculino Bernardo Kids Branco",
+      "nomeCompleto": "Jaleco Masculino Bernardo Kids Branco",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Masculino        Cor  Branco": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Masculino Cor  Branco"
+      },
+      "tipoProduto": "Jaleco",
+      "link": "https://www.danajalecos.com.br/jaleco-masculino-bernardo-kids-branco",
+      "tamanhos": [
+        "1",
+        "10",
+        "12",
+        "14",
+        "2",
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "cores": [
+        {
+          "nome": "Masculino Bernardo Kids Branco",
+          "tituloCompleto": "Jaleco Masculino Bernardo Kids Branco"
+        },
+        {
+          "nome": "Masculino Bernardo Kids Estampado Jardim ABC",
+          "tituloCompleto": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC"
+        }
+      ],
+      "sexo": "Masculino",
+      "coresDisponiveis": [
+        "Branco",
+        "Estampado"
+      ],
+      "modelo": "Bernardo"
+    }
+  ]
+}

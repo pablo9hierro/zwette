@@ -1,0 +1,1457 @@
+{
+  "metadata": {
+    "tipoProduto": "Dólmã/Avental",
+    "totalProdutos": 26,
+    "totalCores": 6,
+    "totalModelos": 5,
+    "dataProcessamento": "2026-01-27T01:19:20.686Z",
+    "dataRefatoracao": "2026-01-27T05:11:36.058Z",
+    "dataLimpeza": "2026-01-27T19:53:32.382Z",
+    "camposRemovidos": [
+      "preco",
+      "imagem",
+      "imagemPrincipal",
+      "cores[].imagem",
+      "variacoes[].imagem"
+    ],
+    "camposMantidos": [
+      "link",
+      "linkPrincipal",
+      "cores[].link",
+      "variacoes[].link"
+    ]
+  },
+  "modelos": {
+    "Linho": {
+      "cores": [
+        "Acafrao Preto 2 em 1",
+        "Acafrao Regulavel",
+        "Areia Escura Argila 2 em 1",
+        "Areia Escura Regulavel",
+        "Argila Areia Escura 2 em 1",
+        "Argila Regulavel",
+        "Caramelo Natural 2 em 1",
+        "Caramelo Regulavel",
+        "Longo Ferrugem",
+        "Longo Natural",
+        "Mediterraneo Regulavel",
+        "Mediterraneo Rosa Cha 2 em 1",
+        "Natural Oliva 2 em 1",
+        "Natural Regulavel",
+        "Oliva Natural 2 em 1",
+        "Oliva Regulavel",
+        "Preto Acafrao 2 em 1",
+        "Preto Regulavel",
+        "Rosa Cha Mediterraneo 2 em 1",
+        "Rosa Cha Regulavel",
+        "Unissex Natural Caramelo 2 em 1"
+      ],
+      "estampas": [],
+      "totalVariacoes": 21,
+      "totalProdutos": 21
+    },
+    "Masculina": {
+      "cores": [
+        "Branco",
+        "Preto"
+      ],
+      "estampas": [],
+      "totalVariacoes": 2,
+      "totalProdutos": 2
+    },
+    "Feminina": {
+      "cores": [
+        "Branco",
+        "Preto"
+      ],
+      "estampas": [],
+      "totalVariacoes": 2,
+      "totalProdutos": 1
+    },
+    "Vintage": {
+      "cores": [],
+      "estampas": [
+        "Estampado"
+      ],
+      "totalVariacoes": 1,
+      "totalProdutos": 1
+    },
+    "Gabardine": {
+      "cores": [
+        "Preto"
+      ],
+      "estampas": [],
+      "totalVariacoes": 1,
+      "totalProdutos": 1
+    }
+  },
+  "produtosOriginais": [
+    {
+      "codigoProduto": "856",
+      "sku": "490-SD-089-000-F-PFa",
+      "nome": "Avental Unissex Linho Areia Escura Regulavel",
+      "nomeCompleto": "Avental Unissex Linho Areia Escura Regulavel",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Areia Escura": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Areia Escura"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Areia Escura Regulavel",
+          "tituloCompleto": "Avental Linho Areia Escura Regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulavel",
+          "tituloCompleto": "Avental Linho Natural Regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulavel",
+          "tituloCompleto": "Avental Linho Caramelo Regulavel"
+        },
+        {
+          "nome": "Linho Mediterraneo Regulavel",
+          "tituloCompleto": "Avental Linho Mediterraneo Regulavel"
+        },
+        {
+          "nome": "Linho Rosa Cha Regulavel",
+          "tituloCompleto": "Avental Linho Rosa Cha Regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulavel",
+          "tituloCompleto": "Avental Linho Oliva Regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulavel",
+          "tituloCompleto": "Avental Linho Argila Regulavel"
+        },
+        {
+          "nome": "Linho Acafrao Regulavel",
+          "tituloCompleto": "Avental Linho Acafrao Regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulavel",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Areia",
+        "Areia Escura",
+        "Rosa",
+        "Preto"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "303",
+      "sku": "350-SD-008-000-MFa",
+      "nome": "Dolma Masculina  Algodao com elastano Branco",
+      "nomeCompleto": "Dolma Masculina  Algodao com elastano Branco",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  50% Poliéster 50% Elastano        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Algodão com elastano        Gênero  Masculino        Cor  Branco": "Composição  50% Poliéster 50% Elastano Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Algodão com elastano Gênero  Masculino Cor  Branco"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/masculino/dolma-masculina-algodao-branco/",
+      "tamanhos": [
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "com elastano Branco",
+          "tituloCompleto": "Dolma Masculina  Algodao com elastano Branco"
+        },
+        {
+          "nome": "com elastano Preto",
+          "tituloCompleto": "Dolma Masculina Algodao com elastano Preto"
+        }
+      ],
+      "sexo": "Masculino",
+      "coresDisponiveis": [
+        "Branco",
+        "Preto"
+      ],
+      "modelo": "Masculina"
+    },
+    {
+      "codigoProduto": "308",
+      "sku": "350-SD-012-000-MFa",
+      "nome": "Dolma Masculina Algodao com elastano Preto",
+      "nomeCompleto": "Dolma Masculina Algodao com elastano Preto",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  50% Algodão 50% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Algodão com elastano        Gênero  Masculino        Cor  Preto": "Composição  50% Algodão 50% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Algodão com elastano Gênero  Masculino Cor  Preto"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/masculino/dolma-masculina-algodao-preto/",
+      "tamanhos": [
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "com elastano Preto",
+          "tituloCompleto": "Dolma Masculina Algodao com elastano Preto"
+        },
+        {
+          "nome": "com elastano Branco",
+          "tituloCompleto": "Dolma Masculina  Algodao com elastano Branco"
+        }
+      ],
+      "sexo": "Masculino",
+      "coresDisponiveis": [
+        "Preto",
+        "Branco"
+      ],
+      "modelo": "Masculina"
+    },
+    {
+      "codigoProduto": "300",
+      "sku": "355-SD-008-000-FFa",
+      "nome": "Dolma Feminina Algodao com elastano Branco",
+      "nomeCompleto": "Dolma Feminina Algodao com elastano Branco",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  50% Algodão 50% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Algodão com elastano        Gênero  Feminino        Cor  Branco": "Composição  50% Algodão 50% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Algodão com elastano Gênero  Feminino Cor  Branco"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/feminino-dolmas/dolma-feminina-algodao-branco/",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "com elastano Branco",
+          "tituloCompleto": "Dolma Feminina Algodao com elastano Branco"
+        },
+        {
+          "nome": "com elastano Preto",
+          "tituloCompleto": "Dolma Feminina Algodao com elastano Preto"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Branco",
+        "Preto"
+      ],
+      "modelo": "Feminina"
+    },
+    {
+      "codigoProduto": "906",
+      "sku": "493-DT-022-000-UFa",
+      "nome": "Avental Unissex Vintage Jeans detalhes Couro Caramelo",
+      "nomeCompleto": "Avental Unissex Vintage Jeans detalhes Couro Caramelo",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  50% Algodão 50% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Jeans        Gênero  Unissex        Cor  Jeans": "Composição  50% Algodão 50% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Jeans Gênero  Unissex Cor  Jeans"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-vintage-jeans-detalhes-couro-caramelo",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Estampado"
+      ],
+      "modelo": "Vintage"
+    },
+    {
+      "codigoProduto": "1530",
+      "sku": "489-SD-090-000-F-P5",
+      "nome": "Avental Linho Longo Natural",
+      "nomeCompleto": "Avental Linho Longo Natural",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  54% Poliéster 28% Viscose 9% Algodão 9% Linho        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Natural": "Composição  54% Poliéster 28% Viscose 9% Algodão 9% Linho Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Natural"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-longo-natural",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Longo Natural",
+          "tituloCompleto": "Avental Linho Longo Natural"
+        },
+        {
+          "nome": "Linho Longo Ferrugem",
+          "tituloCompleto": "Avental Linho Longo Ferrugem"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Estampado"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "1534",
+      "sku": "489-SD-091-000-F-PFa",
+      "nome": "Avental Linho Longo Ferrugem",
+      "nomeCompleto": "Avental Linho Longo Ferrugem",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  54% Poliéster 28% Viscose 9% Algodão 9% Linho        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Ferrugem": "Composição  54% Poliéster 28% Viscose 9% Algodão 9% Linho Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Ferrugem"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-longo-ferrugem",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Longo Ferrugem",
+          "tituloCompleto": "Avental Linho Longo Ferrugem"
+        },
+        {
+          "nome": "Linho Longo Natural",
+          "tituloCompleto": "Avental Linho Longo Natural"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Estampado"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "882",
+      "sku": "492-DT-083-090-UFa",
+      "nome": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Caramelo": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Caramelo"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Acafrao 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Acafrao 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Acafrao detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Acafrao detalhes Preto 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Areia",
+        "Areia Escura",
+        "Rosa"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "897",
+      "sku": "492-DT-090-083-UFa",
+      "nome": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+      "nomeCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Natural": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Natural"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Acafrao 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Acafrao 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Acafrao detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Acafrao detalhes Preto 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Areia",
+        "Areia Escura",
+        "Rosa"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "887",
+      "sku": "492-DT-085-081-UFa",
+      "nome": "Avental Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Rosa Chá": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Rosa Chá"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Acafrao 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Acafrao 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Acafrao detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Acafrao detalhes Preto 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Preto",
+        "Areia",
+        "Areia Escura"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "860",
+      "sku": "492-DT-081-085-UFa",
+      "nome": "Avental  Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1",
+      "nomeCompleto": "Avental  Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Mediterrâneo": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Mediterrâneo"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Acafrao 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Acafrao 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Acafrao detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Acafrao detalhes Preto 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Preto",
+        "Areia",
+        "Areia Escura"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "892",
+      "sku": "492-DT-086-090-UFa",
+      "nome": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Oliva": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Oliva"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Acafrao 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Acafrao 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Acafrao detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Acafrao detalhes Preto 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Areia",
+        "Areia Escura",
+        "Rosa"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "902",
+      "sku": "492-DT-090-086-UFa",
+      "nome": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Natural": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Natural"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Acafrao 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Acafrao 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Acafrao detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Acafrao detalhes Preto 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Areia",
+        "Areia Escura",
+        "Rosa"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "864",
+      "sku": "492-DT-089-084-UFa",
+      "nome": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Areia Escura": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Areia Escura"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Acafrao 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Acafrao 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Acafrao detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Acafrao detalhes Preto 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Areia",
+        "Areia Escura",
+        "Preto",
+        "Rosa"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "868",
+      "sku": "492-DT-084-089-UFa",
+      "nome": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Argila": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Argila"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Acafrao 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Acafrao 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Acafrao detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Acafrao detalhes Preto 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Areia",
+        "Areia Escura",
+        "Preto",
+        "Rosa"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "880",
+      "sku": "492-DT-082-087-UFa",
+      "nome": "Avental Unissex Linho Acafrao detalhes Preto 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Acafrao detalhes Preto 2 em 1",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Açafrão": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Açafrão"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Acafrao detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Acafrao detalhes Preto 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Acafrao 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Acafrao 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Areia",
+        "Areia Escura",
+        "Rosa"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "872",
+      "sku": "492-DT-087-082-UFa",
+      "nome": "Avental Unissex Linho Preto detalhes Acafrao 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Preto detalhes Acafrao 2 em 1",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Preto": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Preto"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Preto detalhes Acafrao 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Acafrao 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Acafrao detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Acafrao detalhes Preto 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterraneo detalhes Rosa Cha 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Cha detalhes Mediterraneo 2 em 1"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Areia",
+        "Areia Escura",
+        "Rosa"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "824",
+      "sku": "490-SD-087-000-F-PFa",
+      "nome": "Avental Unissex Linho Preto Regulavel",
+      "nomeCompleto": "Avental Unissex Linho Preto Regulavel",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Preto": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Preto"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Preto Regulavel",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulavel",
+          "tituloCompleto": "Avental Linho Natural Regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulavel",
+          "tituloCompleto": "Avental Linho Caramelo Regulavel"
+        },
+        {
+          "nome": "Linho Mediterraneo Regulavel",
+          "tituloCompleto": "Avental Linho Mediterraneo Regulavel"
+        },
+        {
+          "nome": "Linho Rosa Cha Regulavel",
+          "tituloCompleto": "Avental Linho Rosa Cha Regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulavel",
+          "tituloCompleto": "Avental Linho Oliva Regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulavel",
+          "tituloCompleto": "Avental Linho Argila Regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulavel",
+          "tituloCompleto": "Avental Linho Areia Escura Regulavel"
+        },
+        {
+          "nome": "Linho Acafrao Regulavel",
+          "tituloCompleto": "Avental Linho Acafrao Regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Rosa",
+        "Areia",
+        "Areia Escura"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "852",
+      "sku": "490-SD-082-000-F-PFa",
+      "nome": "Avental Unissex Linho Acafrao Regulavel",
+      "nomeCompleto": "Avental Unissex Linho Acafrao Regulavel",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Açafrão": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Açafrão"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-acafrao-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Acafrao Regulavel",
+          "tituloCompleto": "Avental Linho Acafrao Regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulavel",
+          "tituloCompleto": "Avental Linho Natural Regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulavel",
+          "tituloCompleto": "Avental Linho Caramelo Regulavel"
+        },
+        {
+          "nome": "Linho Mediterraneo Regulavel",
+          "tituloCompleto": "Avental Linho Mediterraneo Regulavel"
+        },
+        {
+          "nome": "Linho Rosa Cha Regulavel",
+          "tituloCompleto": "Avental Linho Rosa Cha Regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulavel",
+          "tituloCompleto": "Avental Linho Oliva Regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulavel",
+          "tituloCompleto": "Avental Linho Argila Regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulavel",
+          "tituloCompleto": "Avental Linho Areia Escura Regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulavel",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Areia",
+        "Areia Escura",
+        "Preto"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "840",
+      "sku": "490-SD-084-000-F-PFa",
+      "nome": "Avental Unissex Linho Argila Regulavel",
+      "nomeCompleto": "Avental Unissex Linho Argila Regulavel",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Argila": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Argila"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-argila-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Argila Regulavel",
+          "tituloCompleto": "Avental Linho Argila Regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulavel",
+          "tituloCompleto": "Avental Linho Natural Regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulavel",
+          "tituloCompleto": "Avental Linho Caramelo Regulavel"
+        },
+        {
+          "nome": "Linho Mediterraneo Regulavel",
+          "tituloCompleto": "Avental Linho Mediterraneo Regulavel"
+        },
+        {
+          "nome": "Linho Rosa Cha Regulavel",
+          "tituloCompleto": "Avental Linho Rosa Cha Regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulavel",
+          "tituloCompleto": "Avental Linho Oliva Regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulavel",
+          "tituloCompleto": "Avental Linho Areia Escura Regulavel"
+        },
+        {
+          "nome": "Linho Acafrao Regulavel",
+          "tituloCompleto": "Avental Linho Acafrao Regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulavel",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Areia",
+        "Areia Escura",
+        "Preto"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "836",
+      "sku": "490-SD-086-000-F-PFa",
+      "nome": "Avental Unissex Linho Oliva Regulavel",
+      "nomeCompleto": "Avental Unissex Linho Oliva Regulavel",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Oliva": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Oliva"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-oliva-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Oliva Regulavel",
+          "tituloCompleto": "Avental Linho Oliva Regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulavel",
+          "tituloCompleto": "Avental Linho Natural Regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulavel",
+          "tituloCompleto": "Avental Linho Caramelo Regulavel"
+        },
+        {
+          "nome": "Linho Mediterraneo Regulavel",
+          "tituloCompleto": "Avental Linho Mediterraneo Regulavel"
+        },
+        {
+          "nome": "Linho Rosa Cha Regulavel",
+          "tituloCompleto": "Avental Linho Rosa Cha Regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulavel",
+          "tituloCompleto": "Avental Linho Argila Regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulavel",
+          "tituloCompleto": "Avental Linho Areia Escura Regulavel"
+        },
+        {
+          "nome": "Linho Acafrao Regulavel",
+          "tituloCompleto": "Avental Linho Acafrao Regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulavel",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Areia",
+        "Areia Escura",
+        "Preto"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "832",
+      "sku": "490-SD-085-000-F-PFa",
+      "nome": "Avental Unissex Linho Rosa Cha Regulavel",
+      "nomeCompleto": "Avental Unissex Linho Rosa Cha Regulavel",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Rosa Chá": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Rosa Chá"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Rosa Cha Regulavel",
+          "tituloCompleto": "Avental Linho Rosa Cha Regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulavel",
+          "tituloCompleto": "Avental Linho Natural Regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulavel",
+          "tituloCompleto": "Avental Linho Caramelo Regulavel"
+        },
+        {
+          "nome": "Linho Mediterraneo Regulavel",
+          "tituloCompleto": "Avental Linho Mediterraneo Regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulavel",
+          "tituloCompleto": "Avental Linho Oliva Regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulavel",
+          "tituloCompleto": "Avental Linho Argila Regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulavel",
+          "tituloCompleto": "Avental Linho Areia Escura Regulavel"
+        },
+        {
+          "nome": "Linho Acafrao Regulavel",
+          "tituloCompleto": "Avental Linho Acafrao Regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulavel",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Areia",
+        "Areia Escura",
+        "Preto"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "829",
+      "sku": "490-SD-081-000-F-PFa",
+      "nome": "Avental Unissex Linho Mediterraneo Regulavel",
+      "nomeCompleto": "Avental Unissex Linho Mediterraneo Regulavel",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Mediterrâneo": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Mediterrâneo"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Mediterraneo Regulavel",
+          "tituloCompleto": "Avental Linho Mediterraneo Regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulavel",
+          "tituloCompleto": "Avental Linho Natural Regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulavel",
+          "tituloCompleto": "Avental Linho Caramelo Regulavel"
+        },
+        {
+          "nome": "Linho Rosa Cha Regulavel",
+          "tituloCompleto": "Avental Linho Rosa Cha Regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulavel",
+          "tituloCompleto": "Avental Linho Oliva Regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulavel",
+          "tituloCompleto": "Avental Linho Argila Regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulavel",
+          "tituloCompleto": "Avental Linho Areia Escura Regulavel"
+        },
+        {
+          "nome": "Linho Acafrao Regulavel",
+          "tituloCompleto": "Avental Linho Acafrao Regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulavel",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Areia",
+        "Areia Escura",
+        "Preto"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "848",
+      "sku": "490-SD-083-000-F-PFa",
+      "nome": "Avental Unissex Linho Caramelo Regulavel",
+      "nomeCompleto": "Avental Unissex Linho Caramelo Regulavel",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Caramelo": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Caramelo"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-caramelo-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Caramelo Regulavel",
+          "tituloCompleto": "Avental Linho Caramelo Regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulavel",
+          "tituloCompleto": "Avental Linho Natural Regulavel"
+        },
+        {
+          "nome": "Linho Mediterraneo Regulavel",
+          "tituloCompleto": "Avental Linho Mediterraneo Regulavel"
+        },
+        {
+          "nome": "Linho Rosa Cha Regulavel",
+          "tituloCompleto": "Avental Linho Rosa Cha Regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulavel",
+          "tituloCompleto": "Avental Linho Oliva Regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulavel",
+          "tituloCompleto": "Avental Linho Argila Regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulavel",
+          "tituloCompleto": "Avental Linho Areia Escura Regulavel"
+        },
+        {
+          "nome": "Linho Acafrao Regulavel",
+          "tituloCompleto": "Avental Linho Acafrao Regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulavel",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Areia",
+        "Areia Escura",
+        "Preto"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "844",
+      "sku": "490-SD-090-000-F-PFa",
+      "nome": "Avental Unissex Linho Natural Regulavel",
+      "nomeCompleto": "Avental Unissex Linho Natural Regulavel",
+      "descricaoTitulo": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°.        Tecido  Linho        Gênero  Unissex        Cor  Natural": "Composição  60% Poliéster 30% Viscose 7% Linho 3% Algodão Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes passar à temperatura de 100°. Tecido  Linho Gênero  Unissex Cor  Natural"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-natural-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Natural Regulavel",
+          "tituloCompleto": "Avental Linho Natural Regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulavel",
+          "tituloCompleto": "Avental Linho Caramelo Regulavel"
+        },
+        {
+          "nome": "Linho Mediterraneo Regulavel",
+          "tituloCompleto": "Avental Linho Mediterraneo Regulavel"
+        },
+        {
+          "nome": "Linho Rosa Cha Regulavel",
+          "tituloCompleto": "Avental Linho Rosa Cha Regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulavel",
+          "tituloCompleto": "Avental Linho Oliva Regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulavel",
+          "tituloCompleto": "Avental Linho Argila Regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulavel",
+          "tituloCompleto": "Avental Linho Areia Escura Regulavel"
+        },
+        {
+          "nome": "Linho Acafrao Regulavel",
+          "tituloCompleto": "Avental Linho Acafrao Regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulavel",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Areia",
+        "Areia Escura",
+        "Preto"
+      ],
+      "modelo": "Linho"
+    },
+    {
+      "codigoProduto": "816",
+      "sku": "497-SD-012-000-UFa",
+      "nome": "Avental Unissex Cozinha Gabardine Preto",
+      "nomeCompleto": "Avental Unissex Cozinha Gabardine Preto",
+      "descricaoTitulo": null,
+      "descricaoCompleta": null,
+      "caracteristicas": {
+        "Características Gerais            Composição  100% Poliéster        Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°.        Tecido  Gabardine        Gênero  Unissex        Cor  Preto": "Composição  100% Poliéster Cuidado e Lavagem  Recomendamos: Não secar na secadora, lavar antes do primeiro uso, não usar alvejantes, passar à temperatura de 100°. Tecido  Gabardine Gênero  Unissex Cor  Preto"
+      },
+      "tipoProduto": "Dólmã/Avental",
+      "link": "https://www.danajalecos.com.br/avental-cozinha-gabardine-preto",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto"
+      ],
+      "modelo": "Cozinha"
+    }
+  ]
+}

@@ -6,8 +6,9 @@ import makeWASocket, {
 } from '@whiskeysockets/baileys';
 import pino from 'pino';
 import qrcode from 'qrcode-terminal';
-import { processarMensagemRecebida } from '../ia/processar-mensagem.js';
+import { processarMensagemRecebida } from '../atendimento/orquestrador-4blocos.js';
 import { enviarResposta } from './enviar-resposta.js';
+import { adicionarAoBuffer, normalizarPortuguesBR } from '../atendimento/buffer-mensagens.js';
 
 let socketGlobal = null;
 
@@ -41,38 +42,80 @@ async function conectarWhatsApp() {
             }
         } else if (connection === 'open') {
             console.log('✅ Conectado ao WhatsApp!');
+            
+            // Mostrar número conectado
+            const myNumber = sock.user?.id || 'Desconhecido';
+            console.log(`📱 Número conectado: ${myNumber}`);
             console.log('🤖 Agente IA pronto para atender!\n');
         }
     });
 
     sock.ev.on('creds.update', saveCreds);
 
+    // DEBUG: Ver TODOS os eventos que chegam
+    sock.ev.on('*', (event) => {
+        if (event && typeof event === 'object' && !event.messages) {
+            console.log('🔔 Evento genérico:', Object.keys(event)[0] || 'desconhecido');
+        }
+    });
+
     // Escutar mensagens recebidas
+    console.log('👂 Listener de mensagens registrado - aguardando mensagens...\n');
+    
     sock.ev.on('messages.upsert', async ({ messages, type }) => {
-        if (type !== 'notify') return;
+        console.log('\n' + '='.repeat(60));
+        console.log(`🔔 EVENTO RECEBIDO! Tipo: ${type} | Mensagens: ${messages.length}`);
+        console.log('='.repeat(60));
+        
+        if (type !== 'notify') {
+            console.log(`⚠️ Tipo "${type}" ignorado (só processamos "notify")`);
+            return;
+        }
         
         for (const msg of messages) {
+            console.log('\n🔍 Analisando mensagem...');
+            console.log('   fromMe:', msg.key.fromMe);
+            console.log('   remoteJid:', msg.key.remoteJid);
+            
             // Ignorar mensagens enviadas por você
-            if (msg.key.fromMe) continue;
+            if (msg.key.fromMe) {
+                console.log('⏭️ Ignorando: mensagem enviada por mim');
+                continue;
+            }
             
             const remetente = msg.key.remoteJid;
             const nomeContato = msg.pushName || 'Cliente';
+            
+            console.log('📋 Estrutura da mensagem:', JSON.stringify(msg.message, null, 2));
             
             // Extrair texto da mensagem
             const textoMensagem = msg.message?.conversation || 
                                  msg.message?.extendedTextMessage?.text || 
                                  '';
             
-            if (!textoMensagem) continue;
+            if (!textoMensagem) {
+                console.log('⚠️ Ignorando: sem texto na mensagem');
+                continue;
+            }
             
             console.log('\n📨 MENSAGEM RECEBIDA:');
             console.log(`👤 De: ${nomeContato} (${remetente})`);
-            console.log(`💬 Texto: ${textoMensagem}`);
+            console.log(`💬 Texto original: ${textoMensagem}`);
+            
+            // NORMALIZAR português BR com erros
+            const textoNormalizado = normalizarPortuguesBR(textoMensagem);
+            console.log(`✨ Texto normalizado: ${textoNormalizado}`);
+            
+            // BUFFER: Aguarda 3s para concatenar mensagens
+            console.log('⏳ Aguardando 3s para ver se tem mais mensagens...');
+            const textoFinal = await adicionarAoBuffer(remetente, textoNormalizado);
+            
+            console.log(`📦 Texto final (concatenado): ${textoFinal}`);
             console.log('🔄 Processando com IA...\n');
 
             try {
                 // Processar mensagem com IA e obter resposta
-                const resposta = await processarMensagemRecebida(textoMensagem, remetente);
+                const resposta = await processarMensagemRecebida(textoFinal, remetente);
                 
                 // Enviar resposta de volta
                 await enviarResposta(sock, remetente, resposta);
