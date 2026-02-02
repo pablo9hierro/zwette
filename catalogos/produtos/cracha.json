@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "tipoProduto": "Crachá",
+    "totalProdutos": 3,
+    "totalCores": 0,
+    "totalModelos": 0,
+    "dataProcessamento": "2026-02-01T22:40:47.104Z"
+  },
+  "modelos": {
+    "Sem Modelo": {
+      "cores": [],
+      "estampas": [],
+      "totalVariacoes": 0,
+      "totalProdutos": 3
+    }
+  },
+  "produtosOriginais": [
+    {
+      "sku": "010-CR-001-0015",
+      "nome": "Crachá Magnético Dourado",
+      "nomeCompleto": "Crachá Magnético Dourado",
+      "tipoProduto": "Crachá",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/crachamagnetico/cracha-magnetico-dourado/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Crachá Magnético Dourado",
+          "tituloCompleto": "Crachá Magnético Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/crachamagnetico/cracha-magnetico-dourado/"
+        },
+        {
+          "nome": "Crachá Magnético Prata",
+          "tituloCompleto": "Crachá Magnético Prata",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/crachamagnetico/cracha-magnetico-prata/"
+        },
+        {
+          "nome": "Crachá Magnético Preto",
+          "tituloCompleto": "Crachá Magnético Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/crachamagnetico/cracha-magnetico-preto/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Crachá Magnético Dourado",
+        "Crachá Magnético Prata",
+        "Preto"
+      ]
+    },
+    {
+      "sku": "010-CR-002-0025",
+      "nome": "Crachá Magnético Prata",
+      "nomeCompleto": "Crachá Magnético Prata",
+      "tipoProduto": "Crachá",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/crachamagnetico/cracha-magnetico-prata/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Crachá Magnético Prata",
+          "tituloCompleto": "Crachá Magnético Prata",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/crachamagnetico/cracha-magnetico-prata/"
+        },
+        {
+          "nome": "Crachá Magnético Dourado",
+          "tituloCompleto": "Crachá Magnético Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/crachamagnetico/cracha-magnetico-dourado/"
+        },
+        {
+          "nome": "Crachá Magnético Preto",
+          "tituloCompleto": "Crachá Magnético Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/crachamagnetico/cracha-magnetico-preto/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Crachá Magnético Prata",
+        "Crachá Magnético Dourado",
+        "Preto"
+      ]
+    },
+    {
+      "sku": "010-CR-003-0035",
+      "nome": "Crachá Magnético Preto",
+      "nomeCompleto": "Crachá Magnético Preto",
+      "tipoProduto": "Crachá",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/crachamagnetico/cracha-magnetico-preto/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Crachá Magnético Preto",
+          "tituloCompleto": "Crachá Magnético Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/crachamagnetico/cracha-magnetico-preto/"
+        },
+        {
+          "nome": "Crachá Magnético Dourado",
+          "tituloCompleto": "Crachá Magnético Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/crachamagnetico/cracha-magnetico-dourado/"
+        },
+        {
+          "nome": "Crachá Magnético Prata",
+          "tituloCompleto": "Crachá Magnético Prata",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/crachamagnetico/cracha-magnetico-prata/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Crachá Magnético Dourado",
+        "Crachá Magnético Prata"
+      ]
+    }
+  ]
+}

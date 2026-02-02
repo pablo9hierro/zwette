@@ -1,0 +1,2702 @@
+{
+  "metadata": {
+    "tipoProduto": "Turbante",
+    "totalProdutos": 31,
+    "totalCores": 0,
+    "totalModelos": 0,
+    "dataProcessamento": "2026-02-01T22:39:03.470Z"
+  },
+  "modelos": {
+    "Sem Modelo": {
+      "cores": [],
+      "estampas": [],
+      "totalVariacoes": 0,
+      "totalProdutos": 31
+    }
+  },
+  "produtosOriginais": [
+    {
+      "sku": "004-DD-109Fa",
+      "nome": "Turbante Lurex Camel Dourado",
+      "nomeCompleto": "Turbante Lurex Camel Dourado",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-camel-dourado/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Lurex Camel Dourado",
+          "tituloCompleto": "Turbante Lurex Camel Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-camel-dourado/"
+        },
+        {
+          "nome": "Turbante Lurex Bordo",
+          "tituloCompleto": "Turbante Lurex Bordo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-bordo/"
+        },
+        {
+          "nome": "Lurex Rosa Nude",
+          "tituloCompleto": "Turbante Lurex Rosa Nude",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-rosa-nude"
+        },
+        {
+          "nome": "Lurex Azul Bebe",
+          "tituloCompleto": "Turbante Lurex Azul Bebe",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-azul-bebe/"
+        },
+        {
+          "nome": "Lurex Preto Dourado",
+          "tituloCompleto": "Turbante Lurex Preto Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-preto-dourado/"
+        },
+        {
+          "nome": "Lurex Branco Prata",
+          "tituloCompleto": "Turbante Lurex Branco Prata",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-branco-prata"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Lurex Camel Dourado",
+        "Bordo",
+        "Rosa Nude",
+        "Azul",
+        "Preto",
+        "Branco"
+      ]
+    },
+    {
+      "sku": "004-SD-0155",
+      "nome": "Turbante Azul Marinho",
+      "nomeCompleto": "Turbante Azul Marinho",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Azul Marinho",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-012Fa",
+      "nome": "Turbante Preto",
+      "nomeCompleto": "Turbante Preto",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-026-PFa",
+      "nome": "Turbante Lurex Branco Prata",
+      "nomeCompleto": "Turbante Lurex Branco Prata",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/turbante-lurex-branco-prata",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Lurex Branco Prata",
+          "tituloCompleto": "Turbante Lurex Branco Prata",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-branco-prata"
+        },
+        {
+          "nome": "Turbante Lurex Bordo",
+          "tituloCompleto": "Turbante Lurex Bordo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-bordo/"
+        },
+        {
+          "nome": "Lurex Rosa Nude",
+          "tituloCompleto": "Turbante Lurex Rosa Nude",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-rosa-nude"
+        },
+        {
+          "nome": "Lurex Azul Bebe",
+          "tituloCompleto": "Turbante Lurex Azul Bebe",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-azul-bebe/"
+        },
+        {
+          "nome": "Lurex Camel Dourado",
+          "tituloCompleto": "Turbante Lurex Camel Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-camel-dourado/"
+        },
+        {
+          "nome": "Lurex Preto Dourado",
+          "tituloCompleto": "Turbante Lurex Preto Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-preto-dourado/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Branco",
+        "Bordo",
+        "Rosa Nude",
+        "Azul",
+        "Lurex Camel Dourado",
+        "Preto"
+      ]
+    },
+    {
+      "sku": "004-DD-017Fa",
+      "nome": "Turbante Lurex Azul Bebe",
+      "nomeCompleto": "Turbante Lurex Azul Bebe",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-azul-bebe/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Lurex Azul Bebe",
+          "tituloCompleto": "Turbante Lurex Azul Bebe",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Lurex Bordo",
+          "tituloCompleto": "Turbante Lurex Bordo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-bordo/"
+        },
+        {
+          "nome": "Lurex Rosa Nude",
+          "tituloCompleto": "Turbante Lurex Rosa Nude",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-rosa-nude"
+        },
+        {
+          "nome": "Lurex Camel Dourado",
+          "tituloCompleto": "Turbante Lurex Camel Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-camel-dourado/"
+        },
+        {
+          "nome": "Lurex Preto Dourado",
+          "tituloCompleto": "Turbante Lurex Preto Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-preto-dourado/"
+        },
+        {
+          "nome": "Lurex Branco Prata",
+          "tituloCompleto": "Turbante Lurex Branco Prata",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-branco-prata"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Azul",
+        "Bordo",
+        "Rosa Nude",
+        "Lurex Camel Dourado",
+        "Preto",
+        "Branco"
+      ]
+    },
+    {
+      "sku": "004-DD-005Fa",
+      "nome": "Turbante Lurex Rosa Nude",
+      "nomeCompleto": "Turbante Lurex Rosa Nude",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/turbante-lurex-rosa-nude",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Lurex Rosa Nude",
+          "tituloCompleto": "Turbante Lurex Rosa Nude",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-rosa-nude"
+        },
+        {
+          "nome": "Turbante Lurex Bordo",
+          "tituloCompleto": "Turbante Lurex Bordo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-bordo/"
+        },
+        {
+          "nome": "Lurex Azul Bebe",
+          "tituloCompleto": "Turbante Lurex Azul Bebe",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-azul-bebe/"
+        },
+        {
+          "nome": "Lurex Camel Dourado",
+          "tituloCompleto": "Turbante Lurex Camel Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-camel-dourado/"
+        },
+        {
+          "nome": "Lurex Preto Dourado",
+          "tituloCompleto": "Turbante Lurex Preto Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-preto-dourado/"
+        },
+        {
+          "nome": "Lurex Branco Prata",
+          "tituloCompleto": "Turbante Lurex Branco Prata",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-branco-prata"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa Nude",
+        "Bordo",
+        "Azul",
+        "Lurex Camel Dourado",
+        "Preto",
+        "Branco"
+      ]
+    },
+    {
+      "sku": "004-DD-0025",
+      "nome": "Turbante Lurex Bordo",
+      "nomeCompleto": "Turbante Lurex Bordo",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-bordo/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Lurex Bordo",
+          "tituloCompleto": "Turbante Lurex Bordo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-bordo/"
+        },
+        {
+          "nome": "Lurex Rosa Nude",
+          "tituloCompleto": "Turbante Lurex Rosa Nude",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-rosa-nude"
+        },
+        {
+          "nome": "Lurex Azul Bebe",
+          "tituloCompleto": "Turbante Lurex Azul Bebe",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-azul-bebe/"
+        },
+        {
+          "nome": "Lurex Camel Dourado",
+          "tituloCompleto": "Turbante Lurex Camel Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-camel-dourado/"
+        },
+        {
+          "nome": "Lurex Preto Dourado",
+          "tituloCompleto": "Turbante Lurex Preto Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-preto-dourado/"
+        },
+        {
+          "nome": "Lurex Branco Prata",
+          "tituloCompleto": "Turbante Lurex Branco Prata",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-branco-prata"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Bordo",
+        "Rosa Nude",
+        "Azul",
+        "Lurex Camel Dourado",
+        "Preto",
+        "Branco"
+      ]
+    },
+    {
+      "sku": "004-SD-011Fa",
+      "nome": "Turbante Marrom",
+      "nomeCompleto": "Turbante Marrom",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Marrom",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco"
+      ]
+    },
+    {
+      "sku": "004-SD-008Fa",
+      "nome": "Turbante Branco",
+      "nomeCompleto": "Turbante Branco",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Branco",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-017Fa",
+      "nome": "Turbante Azul Bebê",
+      "nomeCompleto": "Turbante Azul Bebê",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Azul Bebê",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-018Fa",
+      "nome": "Turbante Roxo",
+      "nomeCompleto": "Turbante Roxo",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Roxo",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-002Fa",
+      "nome": "Turbante Bordô",
+      "nomeCompleto": "Turbante Bordô",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Bordô",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-068Fa",
+      "nome": "Turbante Verde Militar",
+      "nomeCompleto": "Turbante Verde Militar",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-DD-0125",
+      "nome": "Turbante Lurex Preto Dourado",
+      "nomeCompleto": "Turbante Lurex Preto Dourado",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-preto-dourado/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Lurex Preto Dourado",
+          "tituloCompleto": "Turbante Lurex Preto Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-preto-dourado/"
+        },
+        {
+          "nome": "Turbante Lurex Bordo",
+          "tituloCompleto": "Turbante Lurex Bordo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-bordo/"
+        },
+        {
+          "nome": "Lurex Rosa Nude",
+          "tituloCompleto": "Turbante Lurex Rosa Nude",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-rosa-nude"
+        },
+        {
+          "nome": "Lurex Azul Bebe",
+          "tituloCompleto": "Turbante Lurex Azul Bebe",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-azul-bebe/"
+        },
+        {
+          "nome": "Lurex Camel Dourado",
+          "tituloCompleto": "Turbante Lurex Camel Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-camel-dourado/"
+        },
+        {
+          "nome": "Lurex Branco Prata",
+          "tituloCompleto": "Turbante Lurex Branco Prata",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-branco-prata"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Bordo",
+        "Rosa Nude",
+        "Azul",
+        "Lurex Camel Dourado",
+        "Branco"
+      ]
+    },
+    {
+      "sku": "004-SD-082-PFa",
+      "nome": "Turbante Tec Easy Magenta",
+      "nomeCompleto": "Turbante Tec Easy Magenta",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/turbante-tec-easy-magenta",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Tec Easy Magenta",
+          "tituloCompleto": "Turbante Tec Easy Magenta",
+          "link": "https://www.danajalecos.com.br/turbante-tec-easy-magenta"
+        },
+        {
+          "nome": "Tec Easy Rosa",
+          "tituloCompleto": "Turbante Tec Easy Rosa",
+          "link": "https://www.danajalecos.com.br/turbante-tec-easy-rosa"
+        },
+        {
+          "nome": "Easy Verde Militar",
+          "tituloCompleto": "Turbante Tec Easy Verde Militar",
+          "link": "https://www.danajalecos.com.br/turbante-tec-easy-verde-militar"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Tec Easy Magenta",
+        "Rosa",
+        "Verde"
+      ]
+    },
+    {
+      "sku": "004-SD-076-PFa",
+      "nome": "Turbante Tec Easy Verde Militar",
+      "nomeCompleto": "Turbante Tec Easy Verde Militar",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/turbante-tec-easy-verde-militar",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Easy Verde Militar",
+          "tituloCompleto": "Turbante Tec Easy Verde Militar",
+          "link": "https://www.danajalecos.com.br/turbante-tec-easy-verde-militar"
+        },
+        {
+          "nome": "Tec Easy Rosa",
+          "tituloCompleto": "Turbante Tec Easy Rosa",
+          "link": "https://www.danajalecos.com.br/turbante-tec-easy-rosa"
+        },
+        {
+          "nome": "Tec Easy Magenta",
+          "tituloCompleto": "Turbante Tec Easy Magenta",
+          "link": "https://www.danajalecos.com.br/turbante-tec-easy-magenta"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Verde",
+        "Rosa",
+        "Tec Easy Magenta"
+      ]
+    },
+    {
+      "sku": "004-SD-074-PFa",
+      "nome": "Turbante Tec Easy Rosa",
+      "nomeCompleto": "Turbante Tec Easy Rosa",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/turbante-tec-easy-rosa",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Tec Easy Rosa",
+          "tituloCompleto": "Turbante Tec Easy Rosa",
+          "link": "https://www.danajalecos.com.br/turbante-tec-easy-rosa"
+        },
+        {
+          "nome": "Easy Verde Militar",
+          "tituloCompleto": "Turbante Tec Easy Verde Militar",
+          "link": "https://www.danajalecos.com.br/turbante-tec-easy-verde-militar"
+        },
+        {
+          "nome": "Tec Easy Magenta",
+          "tituloCompleto": "Turbante Tec Easy Magenta",
+          "link": "https://www.danajalecos.com.br/turbante-tec-easy-magenta"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Verde",
+        "Tec Easy Magenta"
+      ]
+    },
+    {
+      "sku": "004-SD-001Fa",
+      "nome": "Turbante Vermelho",
+      "nomeCompleto": "Turbante Vermelho",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Vermelho",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-004Fa",
+      "nome": "Turbante Rosa Pink",
+      "nomeCompleto": "Turbante Rosa Pink",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa Pink",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-025Fa",
+      "nome": "Turbante Rosa Neon",
+      "nomeCompleto": "Turbante Rosa Neon",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-0245",
+      "nome": "Turbante Cobre",
+      "nomeCompleto": "Turbante Cobre",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Turbante Cobre",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-007Fa",
+      "nome": "Turbante Rosa Nude",
+      "nomeCompleto": "Turbante Rosa Nude",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa Nude",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-029Fa",
+      "nome": "Turbante Coral",
+      "nomeCompleto": "Turbante Coral",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/turbante-coral",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Coral",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-009Fa",
+      "nome": "Turbante Verde Água",
+      "nomeCompleto": "Turbante Verde Água",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Verde",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-028Fa",
+      "nome": "Turbante Azul Turquesa",
+      "nomeCompleto": "Turbante Azul Turquesa",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Azul",
+        "Verde",
+        "Amarelo",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-059Fa",
+      "nome": "Turbante Amarelo",
+      "nomeCompleto": "Turbante Amarelo",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Amarelo",
+        "Verde",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-171Fa",
+      "nome": "Turbante Tie Dye",
+      "nomeCompleto": "Turbante Tie Dye",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-tie-dye/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Tie Dye",
+          "tituloCompleto": "Turbante Tie Dye",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-tie-dye/"
+        },
+        {
+          "nome": "Turbante Brasil",
+          "tituloCompleto": "Turbante Brasil",
+          "link": "https://www.danajalecos.com.br/turbante-brasil"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Turbante Tie Dye",
+        "Turbante Brasil"
+      ]
+    },
+    {
+      "sku": "004-SD-214Fa",
+      "nome": "Turbante Brasil",
+      "nomeCompleto": "Turbante Brasil",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/turbante-brasil",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Brasil",
+          "tituloCompleto": "Turbante Brasil",
+          "link": "https://www.danajalecos.com.br/turbante-brasil"
+        },
+        {
+          "nome": "Turbante Tie Dye",
+          "tituloCompleto": "Turbante Tie Dye",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-tie-dye/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Turbante Brasil",
+        "Turbante Tie Dye"
+      ]
+    },
+    {
+      "sku": "004-SD-020Fa",
+      "nome": "Turbante Lurex Branco Dourado",
+      "nomeCompleto": "Turbante Lurex Branco Dourado",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-branco-dourado/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Lurex Branco Dourado",
+          "tituloCompleto": "Turbante Lurex Branco Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-branco-dourado/"
+        },
+        {
+          "nome": "Turbante Lurex Bordo",
+          "tituloCompleto": "Turbante Lurex Bordo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-bordo/"
+        },
+        {
+          "nome": "Lurex Rosa Nude",
+          "tituloCompleto": "Turbante Lurex Rosa Nude",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-rosa-nude"
+        },
+        {
+          "nome": "Lurex Azul Bebe",
+          "tituloCompleto": "Turbante Lurex Azul Bebe",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-azul-bebe/"
+        },
+        {
+          "nome": "Lurex Camel Dourado",
+          "tituloCompleto": "Turbante Lurex Camel Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-camel-dourado/"
+        },
+        {
+          "nome": "Lurex Preto Dourado",
+          "tituloCompleto": "Turbante Lurex Preto Dourado",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-lurex-preto-dourado/"
+        },
+        {
+          "nome": "Lurex Branco Prata",
+          "tituloCompleto": "Turbante Lurex Branco Prata",
+          "link": "https://www.danajalecos.com.br/turbante-lurex-branco-prata"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Branco",
+        "Bordo",
+        "Rosa Nude",
+        "Azul",
+        "Lurex Camel Dourado",
+        "Preto",
+        "Branco"
+      ]
+    },
+    {
+      "sku": "004-SD-013Fa",
+      "nome": "Turbante Cinza",
+      "nomeCompleto": "Turbante Cinza",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cinza/",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Cinza",
+          "tituloCompleto": "Turbante Cinza",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cinza/"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Cinza",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    },
+    {
+      "sku": "004-SD-175Fa",
+      "nome": "Turbante Preto Brilho",
+      "nomeCompleto": "Turbante Preto Brilho",
+      "tipoProduto": "Turbante",
+      "link": "https://www.danajalecos.com.br/turbante-preto-brilho",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Turbante Preto Brilho",
+          "tituloCompleto": "Turbante Preto Brilho",
+          "link": "https://www.danajalecos.com.br/turbante-preto-brilho"
+        },
+        {
+          "nome": "Turbante Verde Militar",
+          "tituloCompleto": "Turbante Verde Militar",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-militar/"
+        },
+        {
+          "nome": "Turbante Amarelo",
+          "tituloCompleto": "Turbante Amarelo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-amarelo/"
+        },
+        {
+          "nome": "Turbante Azul Turquesa",
+          "tituloCompleto": "Turbante Azul Turquesa",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-turquesa/"
+        },
+        {
+          "nome": "Turbante Verde Água",
+          "tituloCompleto": "Turbante Verde Água",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-verde-agua/"
+        },
+        {
+          "nome": "Turbante Coral",
+          "tituloCompleto": "Turbante Coral",
+          "link": "https://www.danajalecos.com.br/turbante-coral"
+        },
+        {
+          "nome": "Turbante Preto",
+          "tituloCompleto": "Turbante Preto",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-preto/"
+        },
+        {
+          "nome": "Turbante Bordô",
+          "tituloCompleto": "Turbante Bordô",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-bordo/"
+        },
+        {
+          "nome": "Turbante Rosa Nude",
+          "tituloCompleto": "Turbante Rosa Nude",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-nude/"
+        },
+        {
+          "nome": "Turbante Azul Marinho",
+          "tituloCompleto": "Turbante Azul Marinho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-marinho/"
+        },
+        {
+          "nome": "Turbante Cobre",
+          "tituloCompleto": "Turbante Cobre",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-cobre/"
+        },
+        {
+          "nome": "Turbante Rosa Neon",
+          "tituloCompleto": "Turbante Rosa Neon",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-neon/"
+        },
+        {
+          "nome": "Turbante Roxo",
+          "tituloCompleto": "Turbante Roxo",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-roxo/"
+        },
+        {
+          "nome": "Turbante Azul Bebê",
+          "tituloCompleto": "Turbante Azul Bebê",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-azul-bebe/"
+        },
+        {
+          "nome": "Turbante Rosa Pink",
+          "tituloCompleto": "Turbante Rosa Pink",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-rosa-pink/"
+        },
+        {
+          "nome": "Turbante Vermelho",
+          "tituloCompleto": "Turbante Vermelho",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-vermelho/"
+        },
+        {
+          "nome": "Turbante Branco",
+          "tituloCompleto": "Turbante Branco",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-branco/"
+        },
+        {
+          "nome": "Turbante Marrom",
+          "tituloCompleto": "Turbante Marrom",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/turbantes/turbante-marrom/"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Verde",
+        "Amarelo",
+        "Azul",
+        "Verde",
+        "Coral",
+        "Preto",
+        "Bordô",
+        "Rosa Nude",
+        "Azul Marinho",
+        "Turbante Cobre",
+        "Rosa",
+        "Roxo",
+        "Azul Bebê",
+        "Rosa Pink",
+        "Vermelho",
+        "Branco",
+        "Marrom"
+      ]
+    }
+  ]
+}

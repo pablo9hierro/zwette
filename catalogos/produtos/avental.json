@@ -1,0 +1,1448 @@
+{
+  "metadata": {
+    "tipoProduto": "Avental",
+    "totalProdutos": 25,
+    "totalCores": 0,
+    "totalModelos": 0,
+    "dataProcessamento": "2026-02-01T22:30:55.669Z"
+  },
+  "modelos": {
+    "Sem Modelo": {
+      "cores": [],
+      "estampas": [],
+      "totalVariacoes": 0,
+      "totalProdutos": 25
+    }
+  },
+  "produtosOriginais": [
+    {
+      "sku": "500-KI-000-017Fa",
+      "nome": "Kit Avental Infantil Azul Bebê",
+      "nomeCompleto": "Kit Avental Infantil Azul Bebê",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/kit-avental-infantil-azul-bebe-unico",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Azul"
+      ]
+    },
+    {
+      "sku": "500-KI-000-005Fa",
+      "nome": "Kit Avental Infantil Rosa Bebê",
+      "nomeCompleto": "Kit Avental Infantil Rosa Bebê",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/kit-avental-infantil-rosa-bebe-unico",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa"
+      ]
+    },
+    {
+      "sku": "490-SD-089-000-F-PFa",
+      "nome": "Avental Unissex Linho Areia Escura Regulável",
+      "nomeCompleto": "Avental Unissex Linho Areia Escura Regulável",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Areia Escura Regulável",
+          "tituloCompleto": "Avental Linho Areia Escura Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulável",
+          "tituloCompleto": "Avental Linho Natural Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulável",
+          "tituloCompleto": "Avental Linho Caramelo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-regulavel"
+        },
+        {
+          "nome": "Linho Mediterrâneo Regulável",
+          "tituloCompleto": "Avental Linho Mediterrâneo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-regulavel"
+        },
+        {
+          "nome": "Linho Rosa Chá Regulável",
+          "tituloCompleto": "Avental Linho Rosa Chá Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulável",
+          "tituloCompleto": "Avental Linho Oliva Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulável",
+          "tituloCompleto": "Avental Linho Argila Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-regulavel"
+        },
+        {
+          "nome": "Linho Açafrão Regulável",
+          "tituloCompleto": "Avental Linho Açafrão Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulável",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Areia",
+        "Natural",
+        "Caramelo",
+        "Linho Mediterrâneo Regulável",
+        "Rosa",
+        "Linho Oliva Regulável",
+        "Linho Argila Regulável",
+        "Linho Açafrão Regulável",
+        "Preto"
+      ]
+    },
+    {
+      "sku": "493-DT-022-000-UFa",
+      "nome": "Avental Unissex Vintage Jeans detalhes Couro Caramelo",
+      "nomeCompleto": "Avental Unissex Vintage Jeans detalhes Couro Caramelo",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-vintage-jeans-detalhes-couro-caramelo",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Caramelo"
+      ]
+    },
+    {
+      "sku": "489-SD-090-000-F-P5",
+      "nome": "Avental Linho Longo Natural",
+      "nomeCompleto": "Avental Linho Longo Natural",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-longo-natural",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Longo Natural",
+          "tituloCompleto": "Avental Linho Longo Natural",
+          "link": "https://www.danajalecos.com.br/avental-linho-longo-natural"
+        },
+        {
+          "nome": "Linho Longo Ferrugem",
+          "tituloCompleto": "Avental Linho Longo Ferrugem",
+          "link": "https://www.danajalecos.com.br/avental-linho-longo-ferrugem"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Natural",
+        "Ferrugem"
+      ]
+    },
+    {
+      "sku": "489-SD-091-000-F-PFa",
+      "nome": "Avental Linho Longo Ferrugem",
+      "nomeCompleto": "Avental Linho Longo Ferrugem",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-longo-ferrugem",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Longo Ferrugem",
+          "tituloCompleto": "Avental Linho Longo Ferrugem",
+          "link": "https://www.danajalecos.com.br/avental-linho-longo-ferrugem"
+        },
+        {
+          "nome": "Linho Longo Natural",
+          "tituloCompleto": "Avental Linho Longo Natural",
+          "link": "https://www.danajalecos.com.br/avental-linho-longo-natural"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Ferrugem",
+        "Natural"
+      ]
+    },
+    {
+      "sku": "492-DT-083-090-UFa",
+      "nome": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Natural",
+        "Preto",
+        "Preto",
+        "Areia",
+        "Areia",
+        "Natural",
+        "Natural",
+        "Rosa",
+        "Rosa",
+        "Caramelo"
+      ]
+    },
+    {
+      "sku": "492-DT-090-083-UFa",
+      "nome": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+      "nomeCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Caramelo",
+        "Preto",
+        "Preto",
+        "Areia",
+        "Areia",
+        "Natural",
+        "Natural",
+        "Rosa",
+        "Rosa",
+        "Natural"
+      ]
+    },
+    {
+      "sku": "492-DT-085-081-UFa",
+      "nome": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Preto",
+        "Preto",
+        "Areia",
+        "Areia",
+        "Natural",
+        "Natural",
+        "Rosa",
+        "Caramelo",
+        "Natural"
+      ]
+    },
+    {
+      "sku": "492-DT-081-085-UFa",
+      "nome": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+      "nomeCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Preto",
+        "Preto",
+        "Areia",
+        "Areia",
+        "Natural",
+        "Natural",
+        "Rosa",
+        "Caramelo",
+        "Natural"
+      ]
+    },
+    {
+      "sku": "492-DT-086-090-UFa",
+      "nome": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Natural",
+        "Preto",
+        "Preto",
+        "Areia",
+        "Areia",
+        "Natural",
+        "Rosa",
+        "Rosa",
+        "Caramelo",
+        "Natural"
+      ]
+    },
+    {
+      "sku": "492-DT-090-086-UFa",
+      "nome": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Natural",
+        "Preto",
+        "Preto",
+        "Areia",
+        "Areia",
+        "Natural",
+        "Rosa",
+        "Rosa",
+        "Caramelo",
+        "Natural"
+      ]
+    },
+    {
+      "sku": "492-DT-089-084-UFa",
+      "nome": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Areia",
+        "Preto",
+        "Preto",
+        "Areia",
+        "Natural",
+        "Natural",
+        "Rosa",
+        "Rosa",
+        "Caramelo",
+        "Natural"
+      ]
+    },
+    {
+      "sku": "492-DT-084-089-UFa",
+      "nome": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Areia",
+        "Preto",
+        "Preto",
+        "Areia",
+        "Natural",
+        "Natural",
+        "Rosa",
+        "Rosa",
+        "Caramelo",
+        "Natural"
+      ]
+    },
+    {
+      "sku": "492-DT-082-087-UFa",
+      "nome": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Preto",
+        "Areia",
+        "Areia",
+        "Natural",
+        "Natural",
+        "Rosa",
+        "Caramelo",
+        "Natural"
+      ]
+    },
+    {
+      "sku": "492-DT-087-082-UFa",
+      "nome": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+      "nomeCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "tituloCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3"
+        },
+        {
+          "nome": "Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tituloCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3"
+        },
+        {
+          "nome": "Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tituloCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Preto",
+        "Areia",
+        "Areia",
+        "Natural",
+        "Natural",
+        "Rosa",
+        "Rosa",
+        "Caramelo",
+        "Natural"
+      ]
+    },
+    {
+      "sku": "490-SD-087-000-F-PFa",
+      "nome": "Avental Unissex Linho Preto Regulável",
+      "nomeCompleto": "Avental Unissex Linho Preto Regulável",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Unissex Linho Preto Regulável",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulável",
+          "tituloCompleto": "Avental Linho Natural Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulável",
+          "tituloCompleto": "Avental Linho Caramelo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-regulavel"
+        },
+        {
+          "nome": "Linho Mediterrâneo Regulável",
+          "tituloCompleto": "Avental Linho Mediterrâneo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-regulavel"
+        },
+        {
+          "nome": "Linho Rosa Chá Regulável",
+          "tituloCompleto": "Avental Linho Rosa Chá Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulável",
+          "tituloCompleto": "Avental Linho Oliva Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulável",
+          "tituloCompleto": "Avental Linho Argila Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulável",
+          "tituloCompleto": "Avental Linho Areia Escura Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel"
+        },
+        {
+          "nome": "Linho Açafrão Regulável",
+          "tituloCompleto": "Avental Linho Açafrão Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Natural",
+        "Caramelo",
+        "Linho Mediterrâneo Regulável",
+        "Rosa",
+        "Linho Oliva Regulável",
+        "Linho Argila Regulável",
+        "Areia",
+        "Linho Açafrão Regulável"
+      ]
+    },
+    {
+      "sku": "490-SD-082-000-F-PFa",
+      "nome": "Avental Unissex Linho Açafrão Regulável",
+      "nomeCompleto": "Avental Unissex Linho Açafrão Regulável",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-acafrao-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Açafrão Regulável",
+          "tituloCompleto": "Avental Linho Açafrão Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulável",
+          "tituloCompleto": "Avental Linho Natural Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulável",
+          "tituloCompleto": "Avental Linho Caramelo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-regulavel"
+        },
+        {
+          "nome": "Linho Mediterrâneo Regulável",
+          "tituloCompleto": "Avental Linho Mediterrâneo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-regulavel"
+        },
+        {
+          "nome": "Linho Rosa Chá Regulável",
+          "tituloCompleto": "Avental Linho Rosa Chá Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulável",
+          "tituloCompleto": "Avental Linho Oliva Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulável",
+          "tituloCompleto": "Avental Linho Argila Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulável",
+          "tituloCompleto": "Avental Linho Areia Escura Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulável",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Linho Açafrão Regulável",
+        "Natural",
+        "Caramelo",
+        "Linho Mediterrâneo Regulável",
+        "Rosa",
+        "Linho Oliva Regulável",
+        "Linho Argila Regulável",
+        "Areia",
+        "Preto"
+      ]
+    },
+    {
+      "sku": "490-SD-084-000-F-PFa",
+      "nome": "Avental Unissex Linho Argila Regulável",
+      "nomeCompleto": "Avental Unissex Linho Argila Regulável",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-argila-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Argila Regulável",
+          "tituloCompleto": "Avental Linho Argila Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulável",
+          "tituloCompleto": "Avental Linho Natural Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulável",
+          "tituloCompleto": "Avental Linho Caramelo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-regulavel"
+        },
+        {
+          "nome": "Linho Mediterrâneo Regulável",
+          "tituloCompleto": "Avental Linho Mediterrâneo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-regulavel"
+        },
+        {
+          "nome": "Linho Rosa Chá Regulável",
+          "tituloCompleto": "Avental Linho Rosa Chá Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulável",
+          "tituloCompleto": "Avental Linho Oliva Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulável",
+          "tituloCompleto": "Avental Linho Areia Escura Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel"
+        },
+        {
+          "nome": "Linho Açafrão Regulável",
+          "tituloCompleto": "Avental Linho Açafrão Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulável",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Linho Argila Regulável",
+        "Natural",
+        "Caramelo",
+        "Linho Mediterrâneo Regulável",
+        "Rosa",
+        "Linho Oliva Regulável",
+        "Areia",
+        "Linho Açafrão Regulável",
+        "Preto"
+      ]
+    },
+    {
+      "sku": "490-SD-086-000-F-PFa",
+      "nome": "Avental Unissex Linho Oliva Regulável",
+      "nomeCompleto": "Avental Unissex Linho Oliva Regulável",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-oliva-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Oliva Regulável",
+          "tituloCompleto": "Avental Linho Oliva Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulável",
+          "tituloCompleto": "Avental Linho Natural Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulável",
+          "tituloCompleto": "Avental Linho Caramelo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-regulavel"
+        },
+        {
+          "nome": "Linho Mediterrâneo Regulável",
+          "tituloCompleto": "Avental Linho Mediterrâneo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-regulavel"
+        },
+        {
+          "nome": "Linho Rosa Chá Regulável",
+          "tituloCompleto": "Avental Linho Rosa Chá Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulável",
+          "tituloCompleto": "Avental Linho Argila Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulável",
+          "tituloCompleto": "Avental Linho Areia Escura Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel"
+        },
+        {
+          "nome": "Linho Açafrão Regulável",
+          "tituloCompleto": "Avental Linho Açafrão Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulável",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Linho Oliva Regulável",
+        "Natural",
+        "Caramelo",
+        "Linho Mediterrâneo Regulável",
+        "Rosa",
+        "Linho Argila Regulável",
+        "Areia",
+        "Linho Açafrão Regulável",
+        "Preto"
+      ]
+    },
+    {
+      "sku": "490-SD-085-000-F-PFa",
+      "nome": "Avental Unissex Linho Rosa Chá Regulável",
+      "nomeCompleto": "Avental Unissex Linho Rosa Chá Regulável",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Rosa Chá Regulável",
+          "tituloCompleto": "Avental Linho Rosa Chá Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulável",
+          "tituloCompleto": "Avental Linho Natural Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulável",
+          "tituloCompleto": "Avental Linho Caramelo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-regulavel"
+        },
+        {
+          "nome": "Linho Mediterrâneo Regulável",
+          "tituloCompleto": "Avental Linho Mediterrâneo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulável",
+          "tituloCompleto": "Avental Linho Oliva Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulável",
+          "tituloCompleto": "Avental Linho Argila Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulável",
+          "tituloCompleto": "Avental Linho Areia Escura Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel"
+        },
+        {
+          "nome": "Linho Açafrão Regulável",
+          "tituloCompleto": "Avental Linho Açafrão Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulável",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa",
+        "Natural",
+        "Caramelo",
+        "Linho Mediterrâneo Regulável",
+        "Linho Oliva Regulável",
+        "Linho Argila Regulável",
+        "Areia",
+        "Linho Açafrão Regulável",
+        "Preto"
+      ]
+    },
+    {
+      "sku": "490-SD-081-000-F-PFa",
+      "nome": "Avental Unissex Linho Mediterrâneo Regulável",
+      "nomeCompleto": "Avental Unissex Linho Mediterrâneo Regulável",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Mediterrâneo Regulável",
+          "tituloCompleto": "Avental Linho Mediterrâneo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulável",
+          "tituloCompleto": "Avental Linho Natural Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulável",
+          "tituloCompleto": "Avental Linho Caramelo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-regulavel"
+        },
+        {
+          "nome": "Linho Rosa Chá Regulável",
+          "tituloCompleto": "Avental Linho Rosa Chá Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulável",
+          "tituloCompleto": "Avental Linho Oliva Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulável",
+          "tituloCompleto": "Avental Linho Argila Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulável",
+          "tituloCompleto": "Avental Linho Areia Escura Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel"
+        },
+        {
+          "nome": "Linho Açafrão Regulável",
+          "tituloCompleto": "Avental Linho Açafrão Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulável",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Linho Mediterrâneo Regulável",
+        "Natural",
+        "Caramelo",
+        "Rosa",
+        "Linho Oliva Regulável",
+        "Linho Argila Regulável",
+        "Areia",
+        "Linho Açafrão Regulável",
+        "Preto"
+      ]
+    },
+    {
+      "sku": "490-SD-083-000-F-PFa",
+      "nome": "Avental Unissex Linho Caramelo Regulável",
+      "nomeCompleto": "Avental Unissex Linho Caramelo Regulável",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-caramelo-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Caramelo Regulável",
+          "tituloCompleto": "Avental Linho Caramelo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-regulavel"
+        },
+        {
+          "nome": "Linho Natural Regulável",
+          "tituloCompleto": "Avental Linho Natural Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-regulavel"
+        },
+        {
+          "nome": "Linho Mediterrâneo Regulável",
+          "tituloCompleto": "Avental Linho Mediterrâneo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-regulavel"
+        },
+        {
+          "nome": "Linho Rosa Chá Regulável",
+          "tituloCompleto": "Avental Linho Rosa Chá Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulável",
+          "tituloCompleto": "Avental Linho Oliva Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulável",
+          "tituloCompleto": "Avental Linho Argila Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulável",
+          "tituloCompleto": "Avental Linho Areia Escura Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel"
+        },
+        {
+          "nome": "Linho Açafrão Regulável",
+          "tituloCompleto": "Avental Linho Açafrão Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulável",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Caramelo",
+        "Natural",
+        "Linho Mediterrâneo Regulável",
+        "Rosa",
+        "Linho Oliva Regulável",
+        "Linho Argila Regulável",
+        "Areia",
+        "Linho Açafrão Regulável",
+        "Preto"
+      ]
+    },
+    {
+      "sku": "490-SD-090-000-F-PFa",
+      "nome": "Avental Unissex Linho Natural Regulável",
+      "nomeCompleto": "Avental Unissex Linho Natural Regulável",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-linho-natural-regulavel",
+      "tamanhos": null,
+      "cores": [
+        {
+          "nome": "Linho Natural Regulável",
+          "tituloCompleto": "Avental Linho Natural Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-regulavel"
+        },
+        {
+          "nome": "Linho Caramelo Regulável",
+          "tituloCompleto": "Avental Linho Caramelo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-regulavel"
+        },
+        {
+          "nome": "Linho Mediterrâneo Regulável",
+          "tituloCompleto": "Avental Linho Mediterrâneo Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-regulavel"
+        },
+        {
+          "nome": "Linho Rosa Chá Regulável",
+          "tituloCompleto": "Avental Linho Rosa Chá Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel"
+        },
+        {
+          "nome": "Linho Oliva Regulável",
+          "tituloCompleto": "Avental Linho Oliva Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-regulavel"
+        },
+        {
+          "nome": "Linho Argila Regulável",
+          "tituloCompleto": "Avental Linho Argila Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-regulavel"
+        },
+        {
+          "nome": "Linho Areia Escura Regulável",
+          "tituloCompleto": "Avental Linho Areia Escura Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel"
+        },
+        {
+          "nome": "Linho Açafrão Regulável",
+          "tituloCompleto": "Avental Linho Açafrão Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-regulavel"
+        },
+        {
+          "nome": "Unissex Linho Preto Regulável",
+          "tituloCompleto": "Avental Unissex Linho Preto Regulável",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Natural",
+        "Caramelo",
+        "Linho Mediterrâneo Regulável",
+        "Rosa",
+        "Linho Oliva Regulável",
+        "Linho Argila Regulável",
+        "Areia",
+        "Linho Açafrão Regulável",
+        "Preto"
+      ]
+    },
+    {
+      "sku": "497-SD-012-000-UFa",
+      "nome": "Avental Unissex Cozinha Gabardine Preto",
+      "nomeCompleto": "Avental Unissex Cozinha Gabardine Preto",
+      "tipoProduto": "Avental",
+      "link": "https://www.danajalecos.com.br/avental-cozinha-gabardine-preto",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto"
+      ]
+    }
+  ]
+}

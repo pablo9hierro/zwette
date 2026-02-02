@@ -1,0 +1,59 @@
+PRODUTOS NÃO ENCONTRADOS NA API MAGAZORD
+
+Para verificação manual:
+
+
+=== DOLMA-AVENTAL.JSON ===
+
+1. Avental Unissex Linho Areia Escura Regulavel
+   SKU: 490-SD-089-000-F-PFa
+   Link: https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel
+
+
+=== GORRO.JSON ===
+
+1. Gorro Unissex D. Bocas Poa
+   SKU: 002-SD-202-000-FFa
+   Link: https://www.danajalecos.com.br/gorro-feminino-bocas-poa
+
+2. Gorro Unissex D. Dentinho Coroa
+   SKU: 002-SD-135-000-F5
+   Link: https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-dentinho-coroa/
+
+3. Gorro  Unissex D.  Planetas
+   SKU: 002-SD-157-000-F-PFa
+   Link: https://www.danajalecos.com.br/gorro-unissex-d-planetas
+
+4. Gorro  Unissex D. Dinos
+   SKU: 002-SD-149-000-F-PFa
+   Link: https://www.danajalecos.com.br/gorro-unissex-d-dinos
+
+5. Gorro Unissex D. Dentinho Bolinha
+   SKU: 002-SD-105-000-FFa
+   Link: https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-dentinho-bolinha/
+
+
+=== NAO-TEXTEIS.JSON ===
+
+1. Bandeja Office Dupla Face
+   SKU: 301-BD-000Fa
+   Link: https://www.danajalecos.com.br/bandeja-office-dupla-face
+
+2. Porta Objetos Dupla Face
+   SKU: 801-OD-000Fa
+   Link: https://www.danajalecos.com.br/porta-objetos-dupla-face
+
+3. Porta Canetas Dupla Face
+   SKU: 901-CD-000Fa
+   Link: https://www.danajalecos.com.br/porta-canetas-dupla-face
+
+
+=== ROBE.JSON ===
+
+1. Robe Wedding Edition Branco
+   SKU: 217773-PFa
+   Link: https://www.danajalecos.com.br/robe-wedding-edition-branco
+
+2. Robe Wedding Edition Rosa Nude
+   SKU: 217772-PFa
+   Link: https://www.danajalecos.com.br/robe-wedding-edition-rosa-nude

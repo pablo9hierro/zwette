@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "tipoProduto": "Kit Office",
+    "totalProdutos": 1,
+    "totalCores": 0,
+    "totalModelos": 0,
+    "dataProcessamento": "2026-02-01T22:25:53.138Z"
+  },
+  "modelos": {
+    "Sem Modelo": {
+      "cores": [],
+      "estampas": [],
+      "totalVariacoes": 0,
+      "totalProdutos": 1
+    }
+  },
+  "produtosOriginais": [
+    {
+      "sku": "101-MD-000-KIT5",
+      "nome": "Kit Office",
+      "nomeCompleto": "Kit Office",
+      "tipoProduto": "Kit Office",
+      "link": "https://www.danajalecos.com.br/kit-office",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": []
+    }
+  ]
+}

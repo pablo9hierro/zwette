@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "tipoProduto": "Vestido",
+    "totalProdutos": 4,
+    "totalCores": 0,
+    "totalModelos": 0,
+    "dataProcessamento": "2026-02-01T22:25:53.180Z"
+  },
+  "modelos": {
+    "Sem Modelo": {
+      "cores": [],
+      "estampas": [],
+      "totalVariacoes": 0,
+      "totalProdutos": 4
+    }
+  },
+  "produtosOriginais": [
+    {
+      "sku": "401-SD-055-000-FFa",
+      "nome": "Vestido Feminino Comfy Rosa Nude",
+      "nomeCompleto": "Vestido Feminino Comfy Rosa Nude",
+      "tipoProduto": "Vestido",
+      "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-rosa-nude",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Comfy Rosa Nude",
+          "tituloCompleto": "Vestido Feminino Comfy Rosa Nude",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-rosa-nude"
+        },
+        {
+          "nome": "Feminino Comfy Preto",
+          "tituloCompleto": "Vestido Feminino Comfy Preto",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-preto"
+        },
+        {
+          "nome": "Comfy Azul Marinho",
+          "tituloCompleto": "Vestido Feminino Comfy Azul Marinho",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-azul-marinho"
+        },
+        {
+          "nome": "Feminino Comfy Chumbo",
+          "tituloCompleto": "Vestido Feminino Comfy Chumbo",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-chumbo"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Rosa Nude",
+        "Preto",
+        "Azul Marinho",
+        "Chumbo"
+      ]
+    },
+    {
+      "sku": "401-SD-050-000-FFa",
+      "nome": "Vestido Feminino Comfy Chumbo",
+      "nomeCompleto": "Vestido Feminino Comfy Chumbo",
+      "tipoProduto": "Vestido",
+      "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-chumbo",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Feminino Comfy Chumbo",
+          "tituloCompleto": "Vestido Feminino Comfy Chumbo",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-chumbo"
+        },
+        {
+          "nome": "Feminino Comfy Preto",
+          "tituloCompleto": "Vestido Feminino Comfy Preto",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-preto"
+        },
+        {
+          "nome": "Comfy Azul Marinho",
+          "tituloCompleto": "Vestido Feminino Comfy Azul Marinho",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-azul-marinho"
+        },
+        {
+          "nome": "Comfy Rosa Nude",
+          "tituloCompleto": "Vestido Feminino Comfy Rosa Nude",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-rosa-nude"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Chumbo",
+        "Preto",
+        "Azul Marinho",
+        "Rosa Nude"
+      ]
+    },
+    {
+      "sku": "401-SD-070-000-FFa",
+      "nome": "Vestido Feminino Comfy Azul Marinho",
+      "nomeCompleto": "Vestido Feminino Comfy Azul Marinho",
+      "tipoProduto": "Vestido",
+      "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-azul-marinho",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Comfy Azul Marinho",
+          "tituloCompleto": "Vestido Feminino Comfy Azul Marinho",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-azul-marinho"
+        },
+        {
+          "nome": "Feminino Comfy Preto",
+          "tituloCompleto": "Vestido Feminino Comfy Preto",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-preto"
+        },
+        {
+          "nome": "Feminino Comfy Chumbo",
+          "tituloCompleto": "Vestido Feminino Comfy Chumbo",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-chumbo"
+        },
+        {
+          "nome": "Comfy Rosa Nude",
+          "tituloCompleto": "Vestido Feminino Comfy Rosa Nude",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-rosa-nude"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Azul Marinho",
+        "Preto",
+        "Chumbo",
+        "Rosa Nude"
+      ]
+    },
+    {
+      "sku": "401-SD-051-000-FFa",
+      "nome": "Vestido Feminino Comfy Preto",
+      "nomeCompleto": "Vestido Feminino Comfy Preto",
+      "tipoProduto": "Vestido",
+      "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-preto",
+      "tamanhos": [
+        "PPP",
+        "PP",
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "cores": [
+        {
+          "nome": "Feminino Comfy Preto",
+          "tituloCompleto": "Vestido Feminino Comfy Preto",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-preto"
+        },
+        {
+          "nome": "Comfy Azul Marinho",
+          "tituloCompleto": "Vestido Feminino Comfy Azul Marinho",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-azul-marinho"
+        },
+        {
+          "nome": "Feminino Comfy Chumbo",
+          "tituloCompleto": "Vestido Feminino Comfy Chumbo",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-chumbo"
+        },
+        {
+          "nome": "Comfy Rosa Nude",
+          "tituloCompleto": "Vestido Feminino Comfy Rosa Nude",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-rosa-nude"
+        }
+      ],
+      "sexo": "Feminino",
+      "coresDisponiveis": [
+        "Preto",
+        "Azul Marinho",
+        "Chumbo",
+        "Rosa Nude"
+      ]
+    }
+  ]
+}

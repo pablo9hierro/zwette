@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "tipoProduto": "Mouse Pad",
+    "totalProdutos": 1,
+    "totalCores": 0,
+    "totalModelos": 0,
+    "dataProcessamento": "2026-02-01T22:25:53.148Z"
+  },
+  "modelos": {
+    "Sem Modelo": {
+      "cores": [],
+      "estampas": [],
+      "totalVariacoes": 0,
+      "totalProdutos": 1
+    }
+  },
+  "produtosOriginais": [
+    {
+      "sku": "101-MD-0005",
+      "nome": "Mouse Pad Dupla Face",
+      "nomeCompleto": "Mouse Pad Dupla Face",
+      "tipoProduto": "Mouse Pad",
+      "link": "https://www.danajalecos.com.br/mouse-pad-dupla-face",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": []
+    }
+  ]
+}

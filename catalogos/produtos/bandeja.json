@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "tipoProduto": "Bandeja",
+    "totalProdutos": 1,
+    "totalCores": 0,
+    "totalModelos": 0,
+    "dataProcessamento": "2026-02-01T22:25:53.087Z"
+  },
+  "modelos": {
+    "Sem Modelo": {
+      "cores": [],
+      "estampas": [],
+      "totalVariacoes": 0,
+      "totalProdutos": 1
+    }
+  },
+  "produtosOriginais": [
+    {
+      "sku": "301-BD-000Fa",
+      "nome": "Bandeja Office Dupla Face",
+      "nomeCompleto": "Bandeja Office Dupla Face",
+      "tipoProduto": "Bandeja",
+      "link": "https://www.danajalecos.com.br/bandeja-office-dupla-face",
+      "tamanhos": null,
+      "cores": null,
+      "sexo": "Unissex",
+      "coresDisponiveis": []
+    }
+  ]
+}

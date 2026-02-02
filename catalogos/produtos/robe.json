@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "tipoProduto": "Robe",
+    "totalProdutos": 3,
+    "totalCores": 0,
+    "totalModelos": 0,
+    "dataProcessamento": "2026-02-01T22:25:53.164Z"
+  },
+  "modelos": {
+    "Sem Modelo": {
+      "cores": [],
+      "estampas": [],
+      "totalVariacoes": 0,
+      "totalProdutos": 3
+    }
+  },
+  "produtosOriginais": [
+    {
+      "sku": "217774Fa",
+      "nome": "Robe Wedding Edition Preto",
+      "nomeCompleto": "Robe Wedding Edition Preto",
+      "tipoProduto": "Robe",
+      "link": "https://www.danajalecos.com.br/robe-wedding-edition-preto",
+      "tamanhos": [
+        "P",
+        "M",
+        "G"
+      ],
+      "cores": [
+        {
+          "nome": "Wedding Edition Preto",
+          "tituloCompleto": "Robe Wedding Edition Preto",
+          "link": "https://www.danajalecos.com.br/robe-wedding-edition-preto"
+        },
+        {
+          "nome": "Edition Rosa Nude",
+          "tituloCompleto": "Robe Wedding Edition Rosa Nude",
+          "link": "https://www.danajalecos.com.br/robe-wedding-edition-rosa-nude"
+        },
+        {
+          "nome": "Wedding Edition Branco",
+          "tituloCompleto": "Robe Wedding Edition Branco",
+          "link": "https://www.danajalecos.com.br/robe-wedding-edition-branco"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Preto",
+        "Rosa Nude",
+        "Branco"
+      ]
+    },
+    {
+      "sku": "217773-PFa",
+      "nome": "Robe Wedding Edition Branco",
+      "nomeCompleto": "Robe Wedding Edition Branco",
+      "tipoProduto": "Robe",
+      "link": "https://www.danajalecos.com.br/robe-wedding-edition-branco",
+      "tamanhos": [
+        "P"
+      ],
+      "cores": [
+        {
+          "nome": "Wedding Edition Branco",
+          "tituloCompleto": "Robe Wedding Edition Branco",
+          "link": "https://www.danajalecos.com.br/robe-wedding-edition-branco"
+        },
+        {
+          "nome": "Edition Rosa Nude",
+          "tituloCompleto": "Robe Wedding Edition Rosa Nude",
+          "link": "https://www.danajalecos.com.br/robe-wedding-edition-rosa-nude"
+        },
+        {
+          "nome": "Wedding Edition Preto",
+          "tituloCompleto": "Robe Wedding Edition Preto",
+          "link": "https://www.danajalecos.com.br/robe-wedding-edition-preto"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Branco",
+        "Rosa Nude",
+        "Preto"
+      ]
+    },
+    {
+      "sku": "217772-PFa",
+      "nome": "Robe Wedding Edition Rosa Nude",
+      "nomeCompleto": "Robe Wedding Edition Rosa Nude",
+      "tipoProduto": "Robe",
+      "link": "https://www.danajalecos.com.br/robe-wedding-edition-rosa-nude",
+      "tamanhos": [
+        "P"
+      ],
+      "cores": [
+        {
+          "nome": "Edition Rosa Nude",
+          "tituloCompleto": "Robe Wedding Edition Rosa Nude",
+          "link": "https://www.danajalecos.com.br/robe-wedding-edition-rosa-nude"
+        },
+        {
+          "nome": "Wedding Edition Branco",
+          "tituloCompleto": "Robe Wedding Edition Branco",
+          "link": "https://www.danajalecos.com.br/robe-wedding-edition-branco"
+        },
+        {
+          "nome": "Wedding Edition Preto",
+          "tituloCompleto": "Robe Wedding Edition Preto",
+          "link": "https://www.danajalecos.com.br/robe-wedding-edition-preto"
+        }
+      ],
+      "sexo": "Unissex",
+      "coresDisponiveis": [
+        "Rosa Nude",
+        "Branco",
+        "Preto"
+      ]
+    }
+  ]
+}
